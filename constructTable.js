@@ -5,7 +5,7 @@ fetch("Deities.json")
   .then(function (data) {
 	var table = document.getElementById("DeityTable");
 	 
-	const list = JSON.parse(data)
+	const list = JSON.parse(data);
 	 
 	// Adding the data to the table
 	for (var i = 0; i < list.length; i++) {
