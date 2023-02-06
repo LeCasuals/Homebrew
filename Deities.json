@@ -1,0 +1,42 @@
+[
+	{
+		"Name":"Example",
+		"Pantheon":"Example",
+		"Alignment":"TN",
+		"Areas of Concern":"Example1, Example2",
+		"Domains":[
+			"Example1",
+			"Example2"
+		],
+		"Favored Weapon":"Example"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Erastil'>Erastil</a>",
+		"Pantheon":"Core Deities",
+		"Alignment":"LG",
+		"Areas of Concern":"Family, farming, hunting, trade",
+		"Domains":[
+			"Animal",
+			"Community",
+			"Good",
+			"Law",
+			"Plant"
+		],
+		"Favored Weapon":"Longbow"
+	},
+	{
+		"Name":"Iomedae",
+		"Pantheon":"Core Deities",
+		"Alignment":"LG",
+		"Areas of Concern":"Honor, justice, rulership, valor",
+		"Domains":[
+			"<a href='https://www.aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			"Good",
+			"Law",
+			"Sun",
+			"War"
+		],
+		"Favored Weapon":"Longsword"
+	}
+]
+	
