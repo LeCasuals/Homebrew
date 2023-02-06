@@ -6,7 +6,14 @@ fetch("Deities.json")
 	var table = document.getElementById("DeityTable");
 	 
 	const list = JSON.parse(JSON.stringify(data));
-	 
+	             
+	var cols = [];
+	for (var i = 0; i < list.length; i++) {
+		for (var k in list[i]) {
+			cols.push(k);
+		}
+	}
+	
 	// Adding the data to the table
 	for (var i = 0; i < list.length; i++) {
 		// Create a new row
