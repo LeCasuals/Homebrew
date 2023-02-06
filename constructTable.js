@@ -1,8 +1,6 @@
 fetch("Deities.json")
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (data) {
+  .then(function (response){return response.json();})
+  .then(function (data){
 	var table = document.getElementById("DeityTable");
 	 
 	const list = JSON.parse(JSON.stringify(data));
@@ -10,7 +8,9 @@ fetch("Deities.json")
 	var cols = [];
 	for (var i = 0; i < list.length; i++) {
 		for (var k in list[i]) {
-			cols.push(k);
+			if (cols.indexOf(k) === -1) { //Prevents duplication somehow
+				cols.push(k);
+			}
 		}
 	}
 	
@@ -18,6 +18,7 @@ fetch("Deities.json")
 	for (var i = 0; i < list.length; i++) {
 		// Create a new row
 		trow = table.insertRow(-1);
+		if (i % 2 != 0) trow.style.background = "#CCCCCC";
 		for (var j = 0; j < cols.length; j++) {
 			var cell = trow.insertCell(-1);
 			 
