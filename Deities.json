@@ -6,7 +6,7 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Slaughter, Blood, Skulls, Rage, Honorable Combat",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
@@ -14,7 +14,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
 		"Favored Weapon":[
-			"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>", 
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>", 
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Greataxe'>Greataxe</a>"
 		]
 	},
@@ -25,14 +25,14 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Change, Mutation, Treachery, Deceit, Magic, Knowledge, Fate",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon": "<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
 	},
 	{
 		"Name":"<a href='Deity/Nurgle'>Nurgle</a>",
@@ -41,14 +41,14 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Stagnation, Resilience, Plague, Rot, Death",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>"
 	},
 	{
 		"Name":"<a href='Deity/Slaneesh'>Slaneesh</a>",
@@ -57,14 +57,14 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Debauchery, Excess, Obsession, Pleasure, Perfection, Lust, Greed",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
 	},
 	{
 		"Name":"<a href='Deity/Malal'>Malal</a>",
@@ -73,13 +73,13 @@
 		"Alignment":"CE",
 		"Areas of Concern":"In-Fighting, Anarchy, Hatred",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crescent-blade/'>Crescent Blade</a>"
+		"Favored Weapon":" <a href='https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crescent-blade/'>Crescent Blade</a>"
 	},
 	{
 		"Name":"<a href='Deity/Be'lakor'>Be'lakor</a>",
@@ -88,12 +88,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Jealousy, Greed, Malevolence",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>"
 	},
 	{
 		"Name":"<a href='Deity/Great%20Horned%20Rat'>Great Horned Rat</a>",
@@ -102,14 +102,14 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Ruin, Pestilence, Vermin, Underground",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tailblade,%20ratfolk'>Tailblade</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tailblade,%20ratfolk'>Tailblade</a>"
 	},
 	{
 		"Name":"<a href='Deity/Conqueror%20Worm'>Conqueror Worm</a>",
@@ -118,12 +118,12 @@
 		"Alignment":"NE",
 		"Areas of Concern":"Weath, Power, Control, Sin",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Simple'>Any Simple Weapon</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Simple'>A Simple Weapon</a>"
 	},
 	{
 		"Name":"<a href='Deity/Elder%20Deep%20One'>Elder Deep One</a>",
@@ -132,12 +132,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Claw</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Claw</a>"
 	},
 	{
 		"Name":"<a href='Deity/Gendowyn'>Gendowyn</a>",
@@ -146,11 +146,11 @@
 		"Alignment":"CN",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
 	},
 	{
 		"Name":"<a href='Deity/Green%20Man'>Green Man (Good)</a>",
@@ -159,12 +159,12 @@
 		"Alignment":"NG",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
 		"Name":"<a href='Deity/Green%20Man'>Green Man (Neutral)</a>",
@@ -173,12 +173,12 @@
 		"Alignment":"TN",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
 		"Name":"<a href='Deity/Green%20Man'>Green Man (Bad)</a>",
@@ -187,12 +187,12 @@
 		"Alignment":"NE",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
 		"Name":"<a href='Deity/Hellion'>Hellion</a>",
@@ -201,12 +201,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Machines",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20gauntlet'>Spiked Gauntlet</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20gauntlet'>Spiked Gauntlet</a>"
 	},
 	{
 		"Name":"<a href='Deity/Mog-Lathar'>Mog-Lathar</a>",
@@ -215,11 +215,11 @@
 		"Alignment":"CE",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>None Yet</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Net'>Net</a>"
 	},
 	{
 		"Name":"<a href='Deity/Tawil%20At'umr'>Tawil At'umr</a>",
@@ -228,12 +228,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Gates, space, time",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
 		"Name":"<a href='Deity/The%20One%20True%20God'>The One True God</a>",
@@ -242,13 +242,13 @@
 		"Alignment":"LN",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20mace'>Heavy Mace</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20mace'>Heavy Mace</a>"
 	},
 	{
 		"Name":"<a href='Deity/Erlik'>Erlik</a>",
@@ -257,13 +257,13 @@
 		"Alignment":"NE",
 		"Areas of Concern":"Death, Judgment, Underworld",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
 		"Name":"<a href='Deity/Walkena'>Walkena</a>",
@@ -272,11 +272,11 @@
 		"Alignment":"LE",
 		"Areas of Concern":"Death, Judgment, Underworld",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
 	},
 	{
 		"Name":"<a href='Deity/Ancestral%20Spirits'>Ancestral Spirits</a>",
@@ -285,12 +285,12 @@
 		"Alignment":"TN",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
 	},
 	{
 		"Name":"<a href='Deity/Great%20Old%20Ones'>Great Old Ones</a>",
@@ -299,13 +299,13 @@
 		"Alignment":"CN",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
 		"Name":"<a href='Deity/Morlock%20Ancestors'>Morlock Ancestors</a>",
@@ -314,12 +314,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
 	},
 	{
 		"Name":"<a href='Deity/Orc%20Cults'>Orc Cults</a>",
@@ -328,14 +328,14 @@
 		"Alignment":"CE",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
 	},
 	{
 		"Name":"<a href='Deity/Shimye-Magalla'>Shimye-Magalla</a>",
@@ -344,14 +344,14 @@
 		"Alignment":"CN",
 		"Areas of Concern":"",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
 		"Favored Weapon":[
-			"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>", 
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>", 
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Trident'>Trident</a>"
 		]
 	},
@@ -362,12 +362,12 @@
 		"Alignment":"NE",
 		"Areas of Concern":"Fetters, Lethargy, Physical Corruption",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20chain'>Spiked Chain</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20chain'>Spiked Chain</a>"
 	},
 	{
 		"Name":"<a href='Deity/Eyes%20That%20Watch'>Eyes That Watch</a>",
@@ -376,12 +376,12 @@
 		"Alignment":"NE",
 		"Areas of Concern":"Inferiority, Felines, Strangers",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
 		"Name":"<a href='Deity/Grasping%20Iovett'>Grasping Iovett</a>",
@@ -390,12 +390,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Accidents, Parasites, Reckless Lust",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
 	},
 	{
 		"Name":"<a href='Deity/Husk'>Husk</a>",
@@ -404,12 +404,12 @@
 		"Alignment":"NE",
 		"Areas of Concern":"Emptiness, Loneliness, Narcissism",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
 	},
 	{
 		"Name":"<a href='Deity/Lady%20Razor'>Lady Razor</a>",
@@ -418,12 +418,12 @@
 		"Alignment":"NE",
 		"Areas of Concern":"Family Strife, Suspicion, Vengeance",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
 		"Name":"<a href='Deity/Reshmit%20of%20the%20Heavy%20Voice'>Reshmit of the Heavy Voice</a>",
@@ -432,12 +432,12 @@
 		"Alignment":"CE",
 		"Areas of Concern":"Broken Things, Forgetting, Unexpected Violence",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Morningstar'>Morningstar</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Morningstar'>Morningstar</a>"
 	},
 	{
 		"Name":"<a href='Deity/Thalaphyrr%20Martyr-Minder'>Thalaphyrr Martyr-Minder</a>",
@@ -446,12 +446,12 @@
 		"Alignment":"LE",
 		"Areas of Concern":"Failed Heroics, Imprisonment, Squandered Time",
 		"Domains":[
-			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
 	},
 	{
 		"Name":"<a href='Deity/Crom'>Crom</a>",
