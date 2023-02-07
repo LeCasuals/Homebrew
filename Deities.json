@@ -340,8 +340,8 @@
 	{
 		"Name":"<a href='Deity/Shimye-Magalla'>Shimye-Magalla</a>",
 		"Source":"Pathfinder",
-		"Pantheon":"-",
-		"Alignment":"-",
+		"Pantheon":"Mwangi",
+		"Alignment":"CN",
 		"Areas of Concern":"",
 		"Domains":[
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
@@ -350,7 +350,10 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
+		"Favored Weapon":[
+			"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>", 
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Trident'>Trident</a>"
+		]
 	},
 	{
 		"Name":"<a href='Deity/Enkaar'>Enkaar</a>",
