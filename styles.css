@@ -18,6 +18,7 @@ table {
 	border-style:Solid;
 	border-collapse:collapse;
 }
+th { color:#EFEFEF; }
 
 h1 {
 	font-size: 1.75em;
@@ -97,6 +98,4 @@ A:link, A:visited, A:active {
     font-style: italic;
     color: inherit;
 }
-A:hover {
-    text-decoration: underline;
-}
+A:hover { text-decoration: underline; }

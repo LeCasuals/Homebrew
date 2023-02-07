@@ -23,7 +23,7 @@ var data = [
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Tzeentch</a>",
-		"Source":"Warhammer",
+		"Source":"MoreHammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Change, Mutation, Treachery, Deceit, Magic, Knowledge, Fate",
@@ -105,4 +105,6 @@ for (var i = 0; i < list.length; i++) {
 		cell.innerHTML = list[i][cols[j]];
 	}
 }
+	
+sortTable(1);
   

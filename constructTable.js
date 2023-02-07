@@ -26,4 +26,6 @@ fetch("Deities.json")
 			cell.innerHTML = list[i][cols[j]];
 		}
 	}
+	
+	sortTable(1);
   })
