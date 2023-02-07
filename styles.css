@@ -1,12 +1,21 @@
 body { 
 	background-color:  #0f0f0f;     
-	color: #fff;
+	color: #EFEFEF;
     font-size: 15px;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-weight: normal;
     font-style: normal;
-	padding-right: 20px;
-	padding-left: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+table {
+	color:#EFEFEF;
+	background-color:#323232;
+	border-color:Gray;
+	border-width:1px;
+	border-style:Solid;
+	border-collapse:collapse;
 }
 
 h1 {
@@ -82,14 +91,11 @@ div + h1, div + h2, div + h3, div + p,h1 + p, h2 + p, h3 + p, h1 + h2, :first-ch
 	margin-top: 0;
 }
 
-A:link, A:visited {
+A:link, A:visited, A:active {
     text-decoration: none;
     font-style: italic;
-    color: #00DDDD;
+    color: inherit;
 }
-
-A:hover, A:active {
+A:hover {
     text-decoration: underline;
-    font-style: italic;
-    color: #00DDDD;
 }

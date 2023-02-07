@@ -32,10 +32,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":[
-			"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>", 
-			" <a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Staff?</a>"
-		]
+		"Favored Weapon": "<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
 	},
 	{
 		"Name":"<a href='Deity/Nurgle'>Nurgle</a>",
@@ -82,7 +79,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Crescent Blade</a>"
+		"Favored Weapon":"<a href='https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crescent-blade/'>Crescent Blade</a>"
 	},
 	{
 		"Name":"<a href='Deity/Be'lakor'>Be'lakor</a>",
@@ -99,7 +96,7 @@
 		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>"
 	},
 	{
-		"Name":"<a href='Deity/Great%20Horned%20Rat'>Great Horned Ratlakor</a>",
+		"Name":"<a href='Deity/Great%20Horned%20Rat'>Great Horned Rat</a>",
 		"Source":"WHF",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",

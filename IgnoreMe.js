@@ -1,6 +1,7 @@
 var data = [
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Khorne</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Slaughter, Blood, Skulls, Rage, Honorable Combat",
@@ -22,6 +23,7 @@ var data = [
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Tzeentch</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Change, Mutation, Treachery, Deceit, Magic, Knowledge, Fate",
@@ -36,13 +38,11 @@ var data = [
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":[
-			"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>", 
-			"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Staff?</a>"
-		]
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Nurgle</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Stagnation, Resilience, Plague, Rot, Death",
@@ -60,6 +60,7 @@ var data = [
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Slaneesh</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Debauchery, Excess, Obsession, Pleasure, Perfection, Lust, Greed",
@@ -95,7 +96,7 @@ for (var i = 0; i < list.length; i++) {
 for (var i = 0; i < list.length; i++) {
 	// Create a new row
 	trow = table.insertRow(-1);
-	if (i % 2 != 0) trow.style.background = "#CCCCCC";
+	if (i % 2 != 0) trow.style.background = "#606262";
 	
 	for (var j = 0; j < cols.length; j++) {
 		var cell = trow.insertCell(-1);
