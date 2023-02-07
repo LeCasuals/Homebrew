@@ -1,6 +1,7 @@
 [
 	{
 		"Name":"<a href='Deity/Khorne'>Khorne</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Slaughter, Blood, Skulls, Rage, Honorable Combat",
@@ -18,7 +19,8 @@
 		]
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Tzeentch</a>",
+		"Name":"<a href='Deity/Tzeentch'>Tzeentch</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Change, Mutation, Treachery, Deceit, Magic, Knowledge, Fate",
@@ -36,7 +38,8 @@
 		]
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Nurgle</a>",
+		"Name":"<a href='Deity/Nurgle'>Nurgle</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Stagnation, Resilience, Plague, Rot, Death",
@@ -51,7 +54,8 @@
 		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Slaneesh</a>",
+		"Name":"<a href='Deity/Slaneesh'>Slaneesh</a>",
+		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Debauchery, Excess, Obsession, Pleasure, Perfection, Lust, Greed",
@@ -64,6 +68,60 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
 		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+	},
+	{
+		"Name":"<a href='Deity/Malal'>Malal</a>",
+		"Source":"WH40K",
+		"Pantheon":"Chaos",
+		"Alignment":"CE",
+		"Areas of Concern":"In-Fighting, Anarchy, Hatred",
+		"Domains":[
+			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Crescent Blade</a>"
+	},
+	{
+		"Name":"<a href='Deity/Be'lakor'>Be'lakor</a>",
+		"Source":"Warhammer",
+		"Pantheon":"Chaos",
+		"Alignment":"CE",
+		"Areas of Concern":"Jealousy, Greed, Malevolence",
+		"Domains":[
+			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>"
+	},
+	{
+		"Name":"<a href='Deity/Great%20Horned%20Rat'>Great Horned Ratlakor</a>",
+		"Source":"WHF",
+		"Pantheon":"Chaos",
+		"Alignment":"CE",
+		"Areas of Concern":"Ruin, Pestilence, Vermin, Underground",
+		"Domains":[
+			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tailblade,%20ratfolk'>Tailblade</a>"
+	},
+	{
+		"Name":"<a href='Deity/Crom'>Crom</a>",
+		"Source":"Conan",
+		"Pantheon":"Hyborea",
+		"Alignment":"TN",
+		"Areas of Concern":"Strength, Mountain, Independence",
+		"Domains":"None",
+		"Favored Weapon":"None"
 	}
 ]
 	
