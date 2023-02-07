@@ -1,24 +1,21 @@
 function sortTable(n) {
-  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("DeityTable");
-  switching = true;
   // Set the sorting direction to ascending:
-  dir = "asc";
+  var shouldSwitch, switching, switchcount = 0, dir = "asc";
+  const table = document.getElementById("DeityTable"), rows = table.rows;
   /* Make a loop that will continue until
   no switching has been done: */
-  while (switching) {
+  do {
     // Start by saying: no switching is done:
     switching = false;
-    rows = table.rows;
     /* Loop through all table rows (except the
     first, which contains table headers): */
-    for (i = 1; i < (rows.length - 1); i++) {
+    for (var i = 1; i < (rows.length - 1); i++) {
       // Start by saying there should be no switching:
       shouldSwitch = false;
       /* Get the two elements you want to compare,
       one from current row and one from the next: */
-      x = rows[i].getElementsByTagName("TD")[n];
-      y = rows[i + 1].getElementsByTagName("TD")[n];
+      var x = rows[i].getElementsByTagName("TD")[n];
+      var y = rows[i + 1].getElementsByTagName("TD")[n];
       /* Check if the two rows should switch place,
       based on the direction, asc or desc: */
       if (dir == "asc") {
@@ -50,5 +47,9 @@ function sortTable(n) {
         switching = true;
       }
     }
+  } while (switching);
+  
+  for (var i = 1; i < rows.length; i++) {
+    rows[i].style.background = (i % 2 == 0) ? "#323232" : "#626262";
   }
 }
