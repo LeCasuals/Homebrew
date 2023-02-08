@@ -7,7 +7,7 @@ fetch("Data/Deities/MasterList.csv")
 		fetch("Data/Deities/" + json)
 		  .then(function (response){return response.json();})
 		  .then(function (data){
-			let table = document.createElement("table");
+			let table = document.getElementById("DeityTable");
 			 
 			const list = JSON.parse(JSON.stringify(data));
 						 
@@ -27,9 +27,6 @@ fetch("Data/Deities/MasterList.csv")
 					cell.innerHTML = list[i][cols[j]]; // Inserting the cell at particular place
 				}
 			}
-			
-			let MainTable = document.getElementById("DeityTable");
-			MainTable.appendChild(table);
 		  });
 	  }
 	  sortTable(1);
