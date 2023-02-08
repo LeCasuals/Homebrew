@@ -1,0 +1,52 @@
+[
+	{
+		"Name":"<a href='Deity/Qah'>Qah</a>",
+		"Source":"WH40K",
+		"Pantheon":"Slah-Haii",
+		"Alignment":"NE",
+		"Areas of Concern":"Umbra, Hrud",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>"
+	},
+	{
+		"Name":"<a href='Deity/Vawk'>Vawk</a>",
+		"Source":"WH40K",
+		"Pantheon":"Kroot",
+		"Alignment":"NG",
+		"Areas of Concern":"Kroot, Birth, Birds, Creation, Sacrifice",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
+		],
+		"Favored Weapon":[
+			" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Beak</a>", 
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		]
+	},
+	{
+		"Name":"<a href='Deity/Gmork'>Gmork</a>",
+		"Source":"WH40K",
+		"Pantheon":"Kroot",
+		"Alignment":"NE",
+		"Areas of Concern":"Kroot, Destrction, Annihiliation, Oblivion",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>"
+	},
+	{
+		"Name":"<a href='Deity/Gork&20and%20Mork'>Gork and Mork</a>",
+		"Source":"WH40K",
+		"Pantheon":"Ork",
+		"Alignment":"NE",
+		"Areas of Concern":"Brutality, Cunning, Orks",
+		"Domains":"To be filled",
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Orc%20double%20axe'>Orc Double Axe</a>"
+	}
+]

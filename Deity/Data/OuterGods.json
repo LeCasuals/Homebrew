@@ -1,0 +1,32 @@
+[
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Azathoth'>Azathoth</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Outer God",
+		"Alignment":"CN",
+		"Areas of Concern":"Entropy, madness, mindless destruction",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>"
+	},
+	{
+		"Name":"<a href='Deity/Nyarlathotep'>Nyarlathotep (Crawling Chaos)</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Outer God",
+		"Alignment":"CE",
+		"Areas of Concern":"Conspiracies, dangerous secrets, forbidden magic",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+	}
+]
