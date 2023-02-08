@@ -1,0 +1,63 @@
+[
+	{
+		"Name":"<a href='Deity/Anhur'>Anhur</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CG",
+		"Areas of Concern":"Conflict, Prowess, Rain, Storm, War",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Anubis'>Anubis</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"LN",
+		"Areas of Concern":"Burial, the dead, funeral rites, mummification, tombs",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>"
+	},
+	{
+		"Name":"<a href='Deity/Geb'>Geb</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Earth, miners, mines, mineral resources",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+	},
+	{
+		"Name":"<a href='Deity/Seker'>Seker</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Punishing Evil, Light",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":[
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Halberd'>Halberd</a>", 
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Mace'>Mace</a>"
+		]
+	},
+]
