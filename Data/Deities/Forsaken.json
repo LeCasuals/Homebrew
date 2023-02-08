@@ -1,0 +1,114 @@
+[
+	{
+		"Name":"<a href='Deity/Enkaar'>Enkaar</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"NE",
+		"Areas of Concern":"Fetters, Lethargy, Physical Corruption",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20chain'>Spiked Chain</a>"
+	},
+	{
+		"Name":"<a href='Deity/Eyes%20That%20Watch'>Eyes That Watch</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"NE",
+		"Areas of Concern":"Inferiority, Felines, Strangers",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+	},
+	{
+		"Name":"<a href='Deity/Grasping%20Iovett'>Grasping Iovett</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"CE",
+		"Areas of Concern":"Accidents, Parasites, Reckless Lust",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+	},
+	{
+		"Name":"<a href='Deity/Husk'>Husk</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"NE",
+		"Areas of Concern":"Emptiness, Loneliness, Narcissism",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+	},
+	{
+		"Name":"<a href='Deity/Lady%20Razor'>Lady Razor</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"NE",
+		"Areas of Concern":"Family Strife, Suspicion, Vengeance",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+	},
+	{
+		"Name":"<a href='Deity/Reshmit%20of%20the%20Heavy%20Voice'>Reshmit of the Heavy Voice</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"CE",
+		"Areas of Concern":"Broken Things, Forgetting, Unexpected Violence",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Morningstar'>Morningstar</a>"
+	},
+	{
+		"Name":"<a href='Deity/Thalaphyrr%20Martyr-Minder'>Thalaphyrr Martyr-Minder</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"LE",
+		"Areas of Concern":"Failed Heroics, Imprisonment, Squandered Time",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+	},
+	{
+		"Name":"<a href='Deity/Thalaphyrr%20Martyr-Minder'>Extra Forsaken For Testing</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Forsaken",
+		"Alignment":"LE",
+		"Areas of Concern":"Extra Forsaken For Testing",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+	}
+]
