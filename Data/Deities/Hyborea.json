@@ -1,8 +1,32 @@
 [
 	{
+		"Name":"<a href='Deity/Crom'>Crom</a>",
+		"Source":"Conan",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Strength, Mountain, Independence",
+		"Domains":"None",
+		"Favored Weapon":"None"
+	},
+	{
+		"Name":"<a href='Deity/Derketo'>Derketo</a>",
+		"Source":"Conan",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"Degeneracy, Sex, Death, Sacrifice",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+	},
+	{
 		"Name":"<a href='Deity/Erlik'>Erlik</a>",
 		"Source":"Conan",
-		"Pantheon":"Hyborea",
+		"Pantheon":"-",
 		"Alignment":"NE",
 		"Areas of Concern":"Death, Judgment, Underworld",
 		"Domains":[
@@ -15,12 +39,78 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
-		"Name":"<a href='Deity/Crom'>Crom</a>",
+		"Name":"<a href='Deity/Jhebbal%20Sag'>Jhebbal Sag</a>",
 		"Source":"Conan",
-		"Pantheon":"Hyborea",
+		"Pantheon":"-",
+		"Alignment":"CN",
+		"Areas of Concern":"Animals, Savagery",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>"
+	},
+	{
+		"Name":"<a href='Deity/Mitra'>Mitra</a>",
+		"Source":"Conan",
+		"Pantheon":"-",
+		"Alignment":"LG",
+		"Areas of Concern":"Friendship, Contracts, Loyalty",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+	},
+	{
+		"Name":"<a href='Deity/Valka'>Valka</a>",
+		"Source":"Conan",
+		"Pantheon":"-",
 		"Alignment":"TN",
-		"Areas of Concern":"Strength, Mountain, Independence",
-		"Domains":"None",
-		"Favored Weapon":"None"
+		"Areas of Concern":"Sea, Land, Creation",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>"
+	},
+	{
+		"Name":"<a href='Deity/Yog'>Yog</a>",
+		"Source":"Conan",
+		"Pantheon":"Great Old One",
+		"Alignment":"CE",
+		"Areas of Concern":"Cannibalism",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
+	},
+	{
+		"Name":"<a href='Deity/Zath'>Zath</a>",
+		"Source":"Conan",
+		"Pantheon":"-",
+		"Alignment":"NE",
+		"Areas of Concern":"Spider, Assassins",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Net'>Net</a>"
 	}
 ]

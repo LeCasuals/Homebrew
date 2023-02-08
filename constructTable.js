@@ -28,6 +28,7 @@ fetch("Data/Deities/MasterList.csv")
 			}
 		  });
 	  }
+	  setTimeout(() => {sortTable(1);}, 500);
 	  sortTable(1);
   });
 
