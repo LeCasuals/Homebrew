@@ -28,20 +28,6 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Ranseur'>Ranseur</a>"
 	},
 	{
-		"Name":"<a href='Deity/Cthuga'>Cthuga</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Great Old One",
-		"Alignment":"CE",
-		"Areas of Concern":"Arson, Destruction, Death of Stars",
-		"Domains":[
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>"
-		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20flail'>Heavy Flail</a>"
-	},
-	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Chaugnar%20Faugn'>Chaugnar Faugn</a>",
 		"Source":"Lovecraft",
 		"Pantheon":"Great Old One",
@@ -54,6 +40,20 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20pick'>Light Pick</a>"
+	},
+	{
+		"Name":"<a href='Deity/Cthuga'>Cthuga</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old One",
+		"Alignment":"CE",
+		"Areas of Concern":"Arson, Destruction, Death of Stars",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20flail'>Heavy Flail</a>"
 	},
 	{
 		"Name":"<a href='Deity/Great%20Old%20Ones'>Great Old Ones</a>",
@@ -71,10 +71,137 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Cthulhu'>Cthulhu</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Cataclysms, dreams, the stars",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Dagon'>Dagon</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Deformity, sea monsters, the sea",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Trident'>Trident</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghatanothoa'>Ghatanothoa</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"NE",
+		"Areas of Concern":"Disasters, lost islands, sacrifice",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Morningstar'>Morningstar</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Hastur'>Hastur</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Decadence, disorder, nihilism",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Rapier'>Rapier</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ithaqua'>Ithaqua</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Cannibalism, cold, the wind",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Handaxe'>Handaxe</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mhar'>Mhar</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CN",
+		"Areas of Concern":"Caverns, mountains, volcanoes",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20pick'>Heavy Pick</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Mordiggian'>Mordiggian</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Darkness, ghouls, voices of the dead",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scimitar'>Scimitar</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Orgesh'>Orgesh</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Alchemy, hunger, subterranean waterways",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Rhan-Tegoth'>Rhan-Tegoth</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old Ones",
+		"Alignment":"CE",
+		"Areas of Concern":"Hibernation, immortality, ruin",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+	},
+	{
 		"Name":"<a href='Deity/Tawil%20At'umr'>Tawil At'umr</a>",
 		"Source":"Lovecraft",
 		"Pantheon":"Great Old One",
-		"Alignment":"CE",
+		"Alignment":"CN",
 		"Areas of Concern":"Gates, space, time",
 		"Domains":[
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
@@ -83,5 +210,47 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Tsathoggua'>Tsathoggua</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old One",
+		"Alignment":"CE",
+		"Areas of Concern":"Magic, outcasts, the underworld",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Xhamen-Dor'>Xhamen-Dor</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old One",
+		"Alignment":"NE",
+		"Areas of Concern":"Decay, parasites, transformation",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+	},
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yig'>Yig</a>",
+		"Source":"Lovecraft",
+		"Pantheon":"Great Old One",
+		"Alignment":"CN",
+		"Areas of Concern":"Cycles, procreation, serpents",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Punching%20dagger'>Punching Dagger</a>"
 	}
 ]
