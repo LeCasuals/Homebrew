@@ -28,7 +28,7 @@ fetch("Data/Deities/MasterList.csv")
 			}
 		  });
 	  }
-	  setTimeout(() => {sortTable(1);}, 500);
-	  sortTable(1);
+	  setTimeout(() => {sortTable(1);}, 100); //Idk, this is the only solution I can think of.
+	  sortTable(1); //I don't think this works.
   });
 
