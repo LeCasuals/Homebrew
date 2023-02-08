@@ -1,4 +1,4 @@
-fetch("Data/Deities/MasterList.csv")
+fetch("Data/MasterList.csv")
   .then(function (response){return response.text();})
   .then(function (data){
 	  
@@ -6,7 +6,7 @@ fetch("Data/Deities/MasterList.csv")
 	  let Fetches = [];
 	  
 	  for (let json of data.split('\n')) {
-		Fetches.push(fetch("Data/Deities/" + json)
+		Fetches.push(fetch("Data/" + json)
 		  .then(value => value.json())
 		  .then(data => {
 			const list = JSON.parse(JSON.stringify(data));
