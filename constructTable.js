@@ -1,13 +1,11 @@
 fetch("Data/Deities/MasterList.csv")
   .then(function (response){return response.text();})
   .then(function (data){
-	  const jsons = data.split('\n');
-	  const table = document.getElementById("DeityTable");
-	  
-	  for (let json of jsons) {
-		fetch("Data/Deities/" + json)
-		  .then(function (response){return response.json();})
-		  .then(function (data){
+	  let Fetches = [];
+	  for (let json of data.split('\n')) {
+		Fetches = fetch("Data/Deities/" + json)
+		  .then(value => value.json())
+		  .then(data => {
 			const list = JSON.parse(JSON.stringify(data));
 			
 			let cols = [];
@@ -18,7 +16,7 @@ fetch("Data/Deities/MasterList.csv")
 					}
 				}
 			}
-			
+				
 			for (let i = 0; i < list.length; i++) { // Adding the data to the table
 				trow = table.insertRow(-1); // Create a new row
 				for (let j = 0; j < cols.length; j++) {
@@ -26,9 +24,10 @@ fetch("Data/Deities/MasterList.csv")
 					cell.innerHTML = list[i][cols[j]]; // Inserting the cell at particular place
 				}
 			}
-		  });
+		});
 	  }
-	  setTimeout(() => {sortTable(1);}, 100); //Idk, this is the only solution I can think of.
-	  sortTable(1); //I don't think this works.
+	  
+	  const table = document.getElementById("DeityTable");
+	  Promise.allSettled(Fetches).then(data => {sortTable(1);});
   });
 
