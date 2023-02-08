@@ -1,7 +1,10 @@
 fetch("Data/Deities/MasterList.csv")
   .then(function (response){return response.text();})
   .then(function (data){
+	  
+	  const table = document.getElementById("DeityTable");
 	  let Fetches = [];
+	  
 	  for (let json of data.split('\n')) {
 		Fetches.push(fetch("Data/Deities/" + json)
 		  .then(value => value.json())
@@ -27,7 +30,6 @@ fetch("Data/Deities/MasterList.csv")
 		}));
 	  }
 	  
-	  const table = document.getElementById("DeityTable");
 	  Promise.allSettled(Fetches).then(data => {sortTable(1);});
   });
 
