@@ -4,7 +4,7 @@ fetch("Data/Deities/MasterList.csv")
 	  const jsons = data.split(",");
 	  
 	  for (let json in jsons) {
-		fetch(json)
+		fetch("Data/Deities/" + json)
 		  .then(function (response){return response.json();})
 		  .then(function (data){
 			let table = document.createElement("table");
