@@ -3,7 +3,7 @@ fetch("Data/Deities/MasterList.csv")
   .then(function (data){
 	  let Fetches = [];
 	  for (let json of data.split('\n')) {
-		Fetches = fetch("Data/Deities/" + json)
+		Fetches.push(fetch("Data/Deities/" + json)
 		  .then(value => value.json())
 		  .then(data => {
 			const list = JSON.parse(JSON.stringify(data));
@@ -24,7 +24,7 @@ fetch("Data/Deities/MasterList.csv")
 					cell.innerHTML = list[i][cols[j]]; // Inserting the cell at particular place
 				}
 			}
-		});
+		}));
 	  }
 	  
 	  const table = document.getElementById("DeityTable");
