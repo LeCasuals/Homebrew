@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Elder%20Deep%20One'>Elder Deep One</a>",
+		"Name":"<a href='Elder%20Deep%20One'>Elder Deep One</a>",
 		"Source":"Lovecraft",
 		"Pantheon":"Great Old Ones",
 		"Alignment":"CE",
@@ -42,7 +42,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20pick'>Light Pick</a>"
 	},
 	{
-		"Name":"<a href='Deity/Cthuga'>Cthuga</a>",
+		"Name":"<a href='Cthuga'>Cthuga</a>",
 		"Source":"Lovecraft",
 		"Pantheon":"Great Old One",
 		"Alignment":"CE",
@@ -56,7 +56,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20flail'>Heavy Flail</a>"
 	},
 	{
-		"Name":"<a href='Deity/Great%20Old%20Ones'>Great Old Ones</a>",
+		"Name":"<a href='Great%20Old%20Ones'>Great Old Ones</a>",
 		"Source":"Lovecraft",
 		"Pantheon":"Great Old Ones",
 		"Alignment":"CN",
@@ -198,7 +198,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
-		"Name":"<a href='Deity/Tawil%20At'umr'>Tawil At'umr</a>",
+		"Name":"<a href='Tawil%20At'umr'>Tawil At'umr</a>",
 		"Source":"Lovecraft",
 		"Pantheon":"Great Old One",
 		"Alignment":"CN",

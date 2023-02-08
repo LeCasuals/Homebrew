@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Khorne'>Khorne</a>",
+		"Name":"<a href='Khorne'>Khorne</a>",
 		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -19,7 +19,7 @@
 		]
 	},
 	{
-		"Name":"<a href='Deity/Tzeentch'>Tzeentch</a>",
+		"Name":"<a href='Tzeentch'>Tzeentch</a>",
 		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -35,7 +35,7 @@
 		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
 	},
 	{
-		"Name":"<a href='Deity/Nurgle'>Nurgle</a>",
+		"Name":"<a href='Nurgle'>Nurgle</a>",
 		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -51,7 +51,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>"
 	},
 	{
-		"Name":"<a href='Deity/Slaneesh'>Slaneesh</a>",
+		"Name":"<a href='Slaneesh'>Slaneesh</a>",
 		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -67,7 +67,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
 	},
 	{
-		"Name":"<a href='Deity/Be'lakor'>Be'lakor</a>",
+		"Name":"<a href='Be'lakor'>Be'lakor</a>",
 		"Source":"Warhammer",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -81,7 +81,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>"
 	},
 	{
-		"Name":"<a href='Deity/Great%20Horned%20Rat'>Great Horned Rat</a>",
+		"Name":"<a href='Great%20Horned%20Rat'>Great Horned Rat</a>",
 		"Source":"WHF",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -97,7 +97,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tailblade,%20ratfolk'>Tailblade</a>"
 	},
 	{
-		"Name":"<a href='Deity/Malal'>Malal</a>",
+		"Name":"<a href='Malal'>Malal</a>",
 		"Source":"WH40K",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
@@ -112,7 +112,7 @@
 		"Favored Weapon":" <a href='https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crescent-blade/'>Crescent Blade</a>"
 	},
 	{
-		"Name":"<a href='Deity/Vashtorr'>Vashtorr</a>",
+		"Name":"<a href='Vashtorr'>Vashtorr</a>",
 		"Source":"WH40K",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",

@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Cegorach'>Cegorach</a>",
+		"Name":"<a href='Cegorach'>Cegorach</a>",
 		"Source":"WH40K",
 		"Pantheon":"Eldar",
 		"Alignment":"CN",
@@ -14,7 +14,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20leafblade'>Elven Leafblade</a>"
 	},
 	{
-		"Name":"<a href='Deity/Isha'>Isha</a>",
+		"Name":"<a href='Isha'>Isha</a>",
 		"Source":"WH40K",
 		"Pantheon":"Eldar",
 		"Alignment":"NG",
@@ -28,7 +28,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20branched%20spear'>Elven Branched Spear</a>"
 	},
 	{
-		"Name":"<a href='Deity/Khaine'>Khaine</a>",
+		"Name":"<a href='Khaine'>Khaine</a>",
 		"Source":"WH40K",
 		"Pantheon":"Eldar",
 		"Alignment":"CN",
@@ -42,7 +42,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade'>Elven Curve Blade</a>"
 	},
 	{
-		"Name":"<a href='Deity/Ynnead'>Ynnead</a>",
+		"Name":"<a href='Ynnead'>Ynnead</a>",
 		"Source":"WH40K",
 		"Pantheon":"Eldar",
 		"Alignment":"TN",

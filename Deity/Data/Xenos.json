@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Qah'>Qah</a>",
+		"Name":"<a href='Qah'>Qah</a>",
 		"Source":"WH40K",
 		"Pantheon":"Slah-Haii",
 		"Alignment":"NE",
@@ -12,7 +12,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>"
 	},
 	{
-		"Name":"<a href='Deity/Vawk'>Vawk</a>",
+		"Name":"<a href='Vawk'>Vawk</a>",
 		"Source":"WH40K",
 		"Pantheon":"Kroot",
 		"Alignment":"NG",
@@ -28,7 +28,7 @@
 		]
 	},
 	{
-		"Name":"<a href='Deity/Gmork'>Gmork</a>",
+		"Name":"<a href='Gmork'>Gmork</a>",
 		"Source":"WH40K",
 		"Pantheon":"Kroot",
 		"Alignment":"NE",
@@ -41,7 +41,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>"
 	},
 	{
-		"Name":"<a href='Deity/Gork&20and%20Mork'>Gork and Mork</a>",
+		"Name":"<a href='Gork&20and%20Mork'>Gork and Mork</a>",
 		"Source":"WH40K",
 		"Pantheon":"Ork",
 		"Alignment":"NE",

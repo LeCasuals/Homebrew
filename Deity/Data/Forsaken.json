@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Enkaar'>Enkaar</a>",
+		"Name":"<a href='Enkaar'>Enkaar</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"NE",
@@ -14,7 +14,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20chain'>Spiked Chain</a>"
 	},
 	{
-		"Name":"<a href='Deity/Eyes%20That%20Watch'>Eyes That Watch</a>",
+		"Name":"<a href='Eyes%20That%20Watch'>Eyes That Watch</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"NE",
@@ -28,7 +28,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
-		"Name":"<a href='Deity/Grasping%20Iovett'>Grasping Iovett</a>",
+		"Name":"<a href='Grasping%20Iovett'>Grasping Iovett</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"CE",
@@ -42,7 +42,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
 	},
 	{
-		"Name":"<a href='Deity/Husk'>Husk</a>",
+		"Name":"<a href='Husk'>Husk</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"NE",
@@ -56,7 +56,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
 	},
 	{
-		"Name":"<a href='Deity/Lady%20Razor'>Lady Razor</a>",
+		"Name":"<a href='Lady%20Razor'>Lady Razor</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"NE",
@@ -70,7 +70,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
-		"Name":"<a href='Deity/Reshmit%20of%20the%20Heavy%20Voice'>Reshmit of the Heavy Voice</a>",
+		"Name":"<a href='Reshmit%20of%20the%20Heavy%20Voice'>Reshmit of the Heavy Voice</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"CE",
@@ -84,7 +84,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Morningstar'>Morningstar</a>"
 	},
 	{
-		"Name":"<a href='Deity/Thalaphyrr%20Martyr-Minder'>Thalaphyrr Martyr-Minder</a>",
+		"Name":"<a href='Thalaphyrr%20Martyr-Minder'>Thalaphyrr Martyr-Minder</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Forsaken",
 		"Alignment":"LE",

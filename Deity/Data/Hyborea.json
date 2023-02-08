@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Crom'>Crom</a>",
+		"Name":"<a href='Crom'>Crom</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"TN",
@@ -9,7 +9,7 @@
 		"Favored Weapon":"None"
 	},
 	{
-		"Name":"<a href='Deity/Derketo'>Derketo</a>",
+		"Name":"<a href='Derketo'>Derketo</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"CE",
@@ -24,7 +24,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
 	},
 	{
-		"Name":"<a href='Deity/Erlik'>Erlik</a>",
+		"Name":"<a href='Erlik'>Erlik</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"NE",
@@ -39,7 +39,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
 	},
 	{
-		"Name":"<a href='Deity/Jhebbal%20Sag'>Jhebbal Sag</a>",
+		"Name":"<a href='Jhebbal%20Sag'>Jhebbal Sag</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"CN",
@@ -53,7 +53,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>"
 	},
 	{
-		"Name":"<a href='Deity/Mitra'>Mitra</a>",
+		"Name":"<a href='Mitra'>Mitra</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"LG",
@@ -69,7 +69,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
 	},
 	{
-		"Name":"<a href='Deity/Valka'>Valka</a>",
+		"Name":"<a href='Valka'>Valka</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"TN",
@@ -84,7 +84,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>"
 	},
 	{
-		"Name":"<a href='Deity/Yog'>Yog</a>",
+		"Name":"<a href='Yog'>Yog</a>",
 		"Source":"Conan",
 		"Pantheon":"Great Old One",
 		"Alignment":"CE",
@@ -99,7 +99,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
 	},
 	{
-		"Name":"<a href='Deity/Zath'>Zath</a>",
+		"Name":"<a href='Zath'>Zath</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
 		"Alignment":"NE",
