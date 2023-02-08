@@ -1,6 +1,7 @@
 fetch("Data/Deities/MasterList.csv")
   .then(function (response){return response.json();})
   .then(function (data){
+	  console.log(data.text());
 	  const jsons = data.text().split(",");
 	  console.log(jsons.length);
 	  
