@@ -30,6 +30,51 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>"
 	},
 	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Apep'>Apep</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CE",
+		"Areas of Concern":"Chaos, darkness, destruction, snakes",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Dagger</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Bastet'>Bastet</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CE",
+		"Areas of Concern":"Cats, pleasure, secrets",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tekko-kagi'>Tekko-kagi</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Bes'>Bes</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Households, luck, marriage, protection",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Hunga%20munga'>Hunga Munga</a>"
+	},
+	{
 		"Name":"<a href='Deity/Geb'>Geb</a>",
 		"Source":"Egyptian",
 		"Pantheon":"Egyptian",
@@ -42,6 +87,156 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Hathor'>Hathor</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CG",
+		"Areas of Concern":"Dance, joy, love, music, sky",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Horus'>Horus</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"LN",
+		"Areas of Concern":"Rulership, the sky, the sun",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Khopesh'>Khopesh</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Isis'>Isis</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Fertility, magic, motherhood, rebirth",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Khepri'>Khepri</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Freedom, the rising sun, work",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sling'>Sling</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Maat'>Maat</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Justice, law, order, truth",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Neith'>Neith</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NG",
+		"Areas of Concern":"Hunting, war, weaving",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Shortbow'>Shortbow</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Nephthys'>Nephthys</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CN",
+		"Areas of Concern":"Mourning, night, protection of the dead",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Osiris'>Osiris</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"LG",
+		"Areas of Concern":"Afterlife, fertility, rebirth, resurrection",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Ptah'>Ptah</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"TN",
+		"Areas of Concern":"Architecture, craftsmanship, creation, metalworking",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Ra'>Ra</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"LN",
+		"Areas of Concern":"Creation, rulership, the sun",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
 	},
 	{
 		"Name":"<a href='Deity/Seker'>Seker</a>",
@@ -60,4 +255,94 @@
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Mace'>Mace</a>"
 		]
 	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Sekhmet'>Sekhmet</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CN",
+		"Areas of Concern":"Fire, healing, vengeance, war",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Sekhmet'>Selket</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CG",
+		"Areas of Concern":"Embalming, healing, scorpions",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scorpion%20whip'>Scorpion Whip</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Set'>Set</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"NE",
+		"Areas of Concern":"Darkness, deserts, murder, storms",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Mandess'>Mandess</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Sobek'>Sobek</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"CN",
+		"Areas of Concern":"Crocodiles, fertility, military prowess, rivers",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Thoth'>Thoth</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"LN",
+		"Areas of Concern":"Magic, the moon, wisdom, writing",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+	},
+	{
+		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Wadjet'>Wadjet</a>",
+		"Source":"Egyptian",
+		"Pantheon":"Egyptian",
+		"Alignment":"LG",
+		"Areas of Concern":"Good serpents, the River Sphinx, wisdom",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>"
+	}
 ]
