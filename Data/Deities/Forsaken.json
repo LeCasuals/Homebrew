@@ -96,19 +96,5 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
-	},
-	{
-		"Name":"<a href='Deity/Thalaphyrr%20Martyr-Minder'>Extra Forsaken For Testing</a>",
-		"Source":"Pathfinder",
-		"Pantheon":"Forsaken",
-		"Alignment":"LE",
-		"Areas of Concern":"Extra Forsaken For Testing",
-		"Domains":[
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
-		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
 	}
 ]
