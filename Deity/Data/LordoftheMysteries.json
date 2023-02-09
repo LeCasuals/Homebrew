@@ -28,5 +28,285 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Cutlass'>Cutlass</a>"
+	},
+	{
+		"Name":"<a href='White%20Tower'>White Tower</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Knowledge, Omniscience",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>"
+		],
+		"Favored Weapon":" None"
+	},
+	{
+		"Name":"<a href='Visionary'>Visionary</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Psychology, Dreams, Imagination, Emotions, Dragons",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Hanged%20Man'>Hanged Man</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"Degredation, Flesh, Corruption, Depravity, Sacrifice",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Twilight%20Giant'>Twilight Giant</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"-",
+		"Areas of Concern":"Weapons, Armour, Self Enhancement, Waning and decay",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Martial'>A martial weapon</a>"
+	},
+	{
+		"Name":"<a href='Death'>Death</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"The Dead, undead, spirits",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Darkness'>Darkness</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Night, Darkness, Souls, Sleep, Dreams, Misfortune, Concealment",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Fool'>Fool</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CN",
+		"Areas of Concern":"Trickery, Divination, History, Secrecy, Concealment, Mysteries",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Pistol'>Pistol</a>"
+	},
+	{
+		"Name":"<a href='Door'>Door</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Doors, Travel, Portals,, Sealing, Teleportation, Escape, Recording, Concealment, Mysteries",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Error'>Error</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CN",
+		"Areas of Concern":"Trickery, Thievery, Yoinking, Fate, Yoinking, Yoinking, Loopholes, Yoinking, Yoinking",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Catch%20Off-Guard'>Improvised Weapons</a>"
+	},
+	{
+		"Name":"<a href='Red%20Priest'>Red Priest</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CN",
+		"Areas of Concern":"War, Provoking, Conspiracies, Burning",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Demoness'>Demoness</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"(Wo)Man made disasters and catastrophes, Curses, Assasinations, Disease, Ageing",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+	},
+	{
+		"Name":"<a href='Paragon'>Paragon</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Craftsmen, Natural world, Creating, Science and technology, Mechanical Knowledge",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/Rules.aspx?Name=Throw%20Splash%20Weapon&Category=Special%20Attacks'>Splash Weapons</a>"
+	},
+	{
+		"Name":"<a href='Hermit'>Hermit</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"The Occult, History, Rituals, Seeing the unseen",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Wheel%20of%20Fortune'>Wheel of Fortune</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"-",
+		"Areas of Concern":"Fate, Luck and Probability",
+		"Domains":" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Mother'>Mother</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"Plants and earth, Healing and Medicine, Splicing, Chimeras",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Moon'>Moon</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"Vampires, Moonlight, Healing, Alchemy",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Bite/Slam</a>"
+	},
+	{
+		"Name":"<a href='Black%20Emperor'>Black Emperor</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"LE",
+		"Areas of Concern":"Distorting Rules and Regulations, Exploiting Loopholes, Cheating, Contracts",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Justiciar'>Justiciar</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"LN",
+		"Areas of Concern":"Setting laws, Punishment, Restrictions, Contracts",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Chained%20Devil'>Chained Devil</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"NE",
+		"Areas of Concern":"Monsters and mutants, Curses and hexes, those who are cursed, Strong Desires",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Unarmed Strike</a>"
+	},
+	{
+		"Name":"<a href='Abyss'>Abyss</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"Serial killers, Corruption, desires, Rituals and sacrifices",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
+		],
+		"Favored Weapon":" Undecided"
 	}
 ]
