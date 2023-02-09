@@ -3,5 +3,10 @@
 		"Name":"<a href='Lumestins%20Puzzle%20Box'>Lumestin's Puzzle Box</a>",
 		"Type":"Major Artifact",
 		"Source":"Puzzle Box Module from Kingmaker"
+	},
+	{
+		"Name":"<a href='Lament%20Configuration'>Lament Configuration</a>",
+		"Type":"Major Artifact",
+		"Source":"Hellraiser"
 	}
 ]
