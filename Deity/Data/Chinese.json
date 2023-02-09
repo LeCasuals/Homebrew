@@ -1,0 +1,28 @@
+[
+	{
+		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sun%20Wukong'>Sun Wukong</a>",
+		"Source":"Chinese",
+		"Pantheon":"Chinese",
+		"Alignment":"CN",
+		"Areas of Concern":"Drunkenness, Nature, Trickery, Monkeys",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+	},
+	{
+		"Name":"<a href='Guan%20Yu'>Guan Yu</a>",
+		"Source":"Chinese",
+		"Pantheon":"Chinese",
+		"Alignment":"NG",
+		"Areas of Concern":"Fortune Telling, War, Diplomacy, Protection",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Glaive'>Glaive</a>"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"Name":"<a href='Sun'>Sun</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"Lord of the Mysteries",
+		"Alignment":"LN",
+		"Areas of Concern":"Purification, Light, Holiness, Contracts, Business",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" Undecided"
+	},
+	{
+		"Name":"<a href='Tyrant'>Tyrant</a>",
+		"Source":"Lord of the Mysteries",
+		"Pantheon":"Lord of the Mysteries",
+		"Alignment":"CN",
+		"Areas of Concern":"Seas, Seafarers, Shantys, Storms, Calamities",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Cutlass'>Cutlass</a>"
+	}
+]
