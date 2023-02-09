@@ -55,7 +55,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
-		"Name":"<a href='Deity/God-Emperor'>God-Emperor</a>",
+		"Name":"<a href='Deity/God-Emperor'>The God-Emperor of Mankind</a>",
 		"Source":"WH40K",
 		"Pantheon":"Imperium",
 		"Alignment":"LN",
@@ -161,8 +161,8 @@
 	},
 	{
 		"Name":"<a href='Deity/The%20One%20True%20God'>The One True God</a>",
-		"Source":"Abrahamic Faith",
-		"Pantheon":"Abrahamic Faith",
+		"Source":"Abrahamic",
+		"Pantheon":"Abrahamic",
 		"Alignment":"LN",
 		"Areas of Concern":"Salvation, Eternal Life",
 		"Domains":[
