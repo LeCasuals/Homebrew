@@ -2,7 +2,7 @@
 	{
 		"Name":"<a href='Sun'>Sun</a>",
 		"Source":"Lord of the Mysteries",
-		"Pantheon":"Lord of the Mysteries",
+		"Pantheon":"-",
 		"Alignment":"LN",
 		"Areas of Concern":"Purification, Light, Holiness, Contracts, Business",
 		"Domains":[
@@ -17,7 +17,7 @@
 	{
 		"Name":"<a href='Tyrant'>Tyrant</a>",
 		"Source":"Lord of the Mysteries",
-		"Pantheon":"Lord of the Mysteries",
+		"Pantheon":"-",
 		"Alignment":"CN",
 		"Areas of Concern":"Seas, Seafarers, Shantys, Storms, Calamities",
 		"Domains":[
