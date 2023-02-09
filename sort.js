@@ -1,7 +1,7 @@
 function sortTable(n) {
   // Set the sorting direction to ascending:
   var shouldSwitch, switching, switchcount = 0, dir = "asc";
-  const table = document.getElementById("DeityTable"), rows = table.rows;
+  const table = document.getElementById("MainTable"), rows = table.rows;
   /* Make a loop that will continue until
   no switching has been done: */
   do {

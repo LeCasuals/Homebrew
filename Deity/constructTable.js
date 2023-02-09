@@ -2,7 +2,7 @@ fetch("Data/MasterList.csv")
   .then(function (response){return response.text();})
   .then(function (data){
 	  
-	  const table = document.getElementById("DeityTable");
+	  const table = document.getElementById("MainTable");
 	  let Fetches = [];
 	  
 	  for (let json of data.split('\n')) {
