@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Homebrew for Pathfinder 1e</title>
+	<title>Artifacts</title>
 	<meta name="theme-color" content="black">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Homebrew for Pathfinder 1e">
 	<link rel="stylesheet" href="../../styles.css">
 	<link rel="shortcut icon" href="../../favicon.ico">
 	<script src="../../sort.js" charset="utf-8"></script>
-	<script src="constructTable.js" charset="utf-8"></script>
+	<script src="../../constructTable.js" charset="utf-8"></script>
 	<style>h2{font-size:1.5em;text-align:center;margin-top:0px;}</style>
 </head>
 
@@ -33,21 +33,22 @@
 	An artifact is a legendary magical item of tremendous power, created by methods which have either been forgotten by the peoples of Golarion, or were always beyond the skills of mortals. They can generally be broken down into two separate categories: major and minor artifacts.<br /><br />
 	Major artifacts are unique creations of tremendous power, designed for a specific purpose.<br />
 	Minor artifacts are somewhat less powerful, yet still able to change the fate of nations. They are not unique, although they exist in much, much smaller numbers than standard magic items.<br />
-	Both types of artifacts are exceedingly difficult to destroy, often requiring specific, difficult to achieve criteria in order to be unmade.[1][2]<br /><br />
+	Both types of artifacts are exceedingly difficult to destroy, often requiring specific, difficult to achieve criteria in order to be unmade.<br /><br />
 	
-	<table cellspacing="0" cellpadding="3" rules="cols" border="1" id="ArtifactTable">
+	<table cellspacing="0" cellpadding="3" rules="cols" border="1" id="MainTable">
+		<caption>List of Artifacts</caption>
 		<tr style="color:White;background-color:Black;font-weight:bold;">
 			<th scope="col" onclick="sortTable(0)" style="cursor:pointer">
 				Name
 			</th>
-			<th scope="col" onclick="sortTable(0)" style="cursor:pointer">
+			<th scope="col" onclick="sortTable(1)" style="cursor:pointer">
 				Type
 			</th>
-			<th scope="col" onclick="sortTable(0)" style="cursor:pointer">
+			<th scope="col" onclick="sortTable(2)" style="cursor:pointer">
 				Source
 			</th>
 		</tr>
 	</table>
-	
+	<script>ConstructTable()</script>
 </body>
 </html>
