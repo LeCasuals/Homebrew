@@ -82,7 +82,7 @@
 	},
 	{
 		"Name":"<a href='Great%20Horned%20Rat'>Great Horned Rat</a>",
-		"Source":"WHF",
+		"Source":"Warhammer Fantasy",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Ruin, Pestilence, Vermin, Underground",
@@ -98,7 +98,7 @@
 	},
 	{
 		"Name":"<a href='Malal'>Malal</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"In-Fighting, Anarchy, Hatred",
@@ -113,7 +113,7 @@
 	},
 	{
 		"Name":"<a href='Vashtorr'>Vashtorr</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Chaos",
 		"Alignment":"CE",
 		"Areas of Concern":"Weapons, Crafting, Science, Curiosity, Innovation",

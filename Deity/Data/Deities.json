@@ -1,7 +1,7 @@
 [
 	{
 		"Name":"<a href='Deity/Sigmar'>Sigmar</a>",
-		"Source":"WHF",
+		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"LG",
 		"Areas of Concern":"Mankind, Unity, Cleansing Chaos",
@@ -17,7 +17,7 @@
 	},
 	{
 		"Name":"<a href='Deity/Ulric'>Ulric</a>",
-		"Source":"WHF",
+		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"CG",
 		"Areas of Concern":"Battle, War, Winter, Wolves, Barbarism",
@@ -32,7 +32,7 @@
 	},
 	{
 		"Name":"<a href='Deity/Taal'>Taal</a>",
-		"Source":"WHF",
+		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"TN",
 		"Areas of Concern":"Forces of Nature, Beasts, Forests, Mountains, Wild Places",
@@ -47,7 +47,7 @@
 	},
 	{
 		"Name":"<a href='Deity/Rhya'>Rhya</a>",
-		"Source":"WHF",
+		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"NG",
 		"Areas of Concern":"Fertility, Harvest, Good Hunting, Life, Fair Weather",
@@ -56,7 +56,7 @@
 	},
 	{
 		"Name":"<a href='Deity/God-Emperor'>The God-Emperor of Mankind</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Imperium",
 		"Alignment":"LN",
 		"Areas of Concern":"Mankind, Unity, Cleansing Chaos",

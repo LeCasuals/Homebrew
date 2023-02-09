@@ -1,7 +1,7 @@
 [
 	{
 		"Name":"<a href='Cegorach'>Cegorach</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Eldar",
 		"Alignment":"CN",
 		"Areas of Concern":"Clowns, Trickery, Eldar",
@@ -15,7 +15,7 @@
 	},
 	{
 		"Name":"<a href='Isha'>Isha</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Eldar",
 		"Alignment":"NG",
 		"Areas of Concern":"Medicine, Healing, Fertility, Harvest, Eldar",
@@ -29,7 +29,7 @@
 	},
 	{
 		"Name":"<a href='Khaine'>Khaine</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Eldar",
 		"Alignment":"CN",
 		"Areas of Concern":"Murder, Violence, Destruction, War, Rejuvenation, Eldar",
@@ -43,7 +43,7 @@
 	},
 	{
 		"Name":"<a href='Ynnead'>Ynnead</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Eldar",
 		"Alignment":"TN",
 		"Areas of Concern":"Death, Souls, Eldar",

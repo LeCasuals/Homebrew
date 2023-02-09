@@ -1,7 +1,7 @@
 [
 	{
 		"Name":"<a href='Qah'>Qah</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Slah-Haii",
 		"Alignment":"NE",
 		"Areas of Concern":"Umbra, Hrud",
@@ -13,7 +13,7 @@
 	},
 	{
 		"Name":"<a href='Vawk'>Vawk</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Kroot",
 		"Alignment":"NG",
 		"Areas of Concern":"Kroot, Birth, Birds, Creation, Sacrifice",
@@ -29,7 +29,7 @@
 	},
 	{
 		"Name":"<a href='Gmork'>Gmork</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Kroot",
 		"Alignment":"NE",
 		"Areas of Concern":"Kroot, Destrction, Annihiliation, Oblivion",
@@ -42,7 +42,7 @@
 	},
 	{
 		"Name":"<a href='Gork&20and%20Mork'>Gork and Mork</a>",
-		"Source":"WH40K",
+		"Source":"Warhammer 40K",
 		"Pantheon":"Ork",
 		"Alignment":"NE",
 		"Areas of Concern":"Brutality, Cunning, Orks",
