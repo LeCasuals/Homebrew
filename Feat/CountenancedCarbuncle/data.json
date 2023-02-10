@@ -1,0 +1,38 @@
+[
+	{
+		"Name":"<a href='Countenanced%20Carbuncle'>Countenanced Carbuncle</a>",
+		"Prerequisite":"-",
+		"Description":"You’ve made a peaceful and permanent bargain with a parasitic creature known as a countenanced carbuncle. The being now inhabits your body, aiding you as best it can.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Hands%20Autonomy'>Hand’s Autonomy</a>",
+		"Prerequisite":"Countenanced Carbuncle",
+		"Description":"The countenanced carbuncle inhabiting your body can act independently.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Hands%20Hunger'>Hand’s Hunger</a>",
+		"Prerequisite":"Countenanced Carbuncle",
+		"Description":"Your countenanced carbuncle has strange hungers, and can draw that which it desires near.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Hands%20Knowledge'>Hand’s Knowledge</a>",
+		"Prerequisite":"Countenanced Carbuncle",
+		"Description":"Your connection to the memories of the countenanced carbuncle occupying your body deepens.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Hands%20Space'>Hand’s Space</a>",
+		"Prerequisite":"Countenanced Carbuncle, Hand's Hunger",
+		"Description":"Your countenanced carbuncle can swallow small objects, holding them until later.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Hunger%20For%20Magic'>Hunger For Magic</a>",
+		"Prerequisite":"Countenanced Carbuncle, Hand's Hunger, Base Attack Bonus +11",
+		"Description":"Your countenanced carbuncle can open its mouth and suck in magical effects.",
+		"Source":"Vampire Hunter D"
+	}
+]

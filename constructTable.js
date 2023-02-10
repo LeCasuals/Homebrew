@@ -1,4 +1,4 @@
-function ConstructTable() {
+function ConstructTable(ColumnNumber=2) {
 	const table = document.getElementById("MainTable");
 
 	fetch("data.json")
@@ -22,6 +22,6 @@ function ConstructTable() {
 				cell.innerHTML = list[i][cols[j]]; // Inserting the cell at particular place
 			}
 		}
-		sortTable(1);
+		sortTable(ColumnNumber);
 	});
 }

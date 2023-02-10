@@ -42,10 +42,24 @@
 		"Source":"John Carter of Mars"
 	},
 	{
+		"Name":"<a href='Oparian'>Oparian</a>",
+		"Size":"Medium",
+		"Type":"Humanoid (Oparian)",
+		"Abilities":"+2 to any",
+		"Source":"Tarzan"
+	},
+	{
 		"Name":"<a href='Dhampir'>Dhampir (Sacred Ancestry)</a>",
 		"Size":"Medium",
 		"Type":"Humanoid (Dhampir)",
 		"Abilities":"+2 Dex, +2 Cha, -2 Con",
 		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Sea-Spawn'>Sea-Spawn</a>",
+		"Size":"Medium",
+		"Type":"Monstrous Humanoid (Sea-Spawn)",
+		"Abilities":"+2 Con, +2 Wis, -2 Int",
+		"Source":"Red Sonja"
 	}
 ]

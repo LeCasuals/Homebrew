@@ -1,0 +1,50 @@
+[
+	{
+		"Name":"<a href='Deaths%20Nightmare'>Death’s Nightmare</a>",
+		"Prerequisite":"Cha 14",
+		"Description":"Even the mindless dead fear your coming.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Extended%20Vampiric%20Focus'>Extended Vampiric Focus</a>",
+		"Prerequisite":"Vampiric focus class feature.",
+		"Description":"You can employ vampiric prowess for a longer period.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Know%20Master'>Know Master</a>",
+		"Prerequisite":"-",
+		"Description":"You recognize the telltale signs of undead overlords among their slaves.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Liberating%20Critical'>Liberating Critical</a>",
+		"Prerequisite":"Base Attack Bonus +9",
+		"Description":"Your jarring blows can cleanse your enemies’ minds of supernatural control.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Resolute%20Steed'>Resolute Steed</a>",
+		"Prerequisite":"Handle Animal 5 ranks",
+		"Description":"Your boldness inspires even your mount to feats of bravery.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Revealing%20Waters'>Revealing Waters</a>",
+		"Prerequisite":"Blessed Waters, Base Attack Bonus +9",
+		"Description":"Your holy water washes away falsehoods.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Soured%20Soul'>Soured Soul</a>",
+		"Prerequisite":"-",
+		"Description":"Your loathing of the undead is so great that your very essence is anathema to such creatures.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Vampire%20Scholar'>Vampire Scholar</a>",
+		"Prerequisite":"-",
+		"Description":"You know the legends of vampire-kind, both those that are tales and those that are histories.",
+		"Source":"Vampire Hunter D"
+	}
+]
