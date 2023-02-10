@@ -1,4 +1,4 @@
-function ConstructTable(ColumnNumber=2) {
+function ConstructTable(ColumnNumber=1) {
 	const table = document.getElementById("MainTable");
 
 	fetch("data.json")
