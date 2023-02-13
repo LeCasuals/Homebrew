@@ -19,5 +19,19 @@
 		"Type":"Construct (Swarm)",
 		"Environment":"-",
 		"Source":"Puzzle Box (Kingmaker)"
+	},
+	{
+		"Name":"<a href='Kaldane'>Kaldane</a>",
+		"CR":"4",
+		"Type":"Aberration",
+		"Environment":"-",
+		"Source":"John Carter of Mars"
+	},
+	{
+		"Name":"<a href='Rykor'>Rykor</a>",
+		"CR":"4",
+		"Type":"Aberration",
+		"Environment":"-",
+		"Source":"John Carter of Mars"
 	}
 ]
