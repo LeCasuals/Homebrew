@@ -1,0 +1,23 @@
+[
+	{
+		"Name":"<a href='Linked%20Phantom%20Armor'>Linked Phantom Armor</a>",
+		"CR":"2",
+		"Type":"Undead",
+		"Environment":"Any",
+		"Source":"Puzzle Box (Kingmaker)"
+	},
+	{
+		"Name":"<a href='Candlewick'>Candlewick</a>",
+		"CR":"9",
+		"Type":"Fey",
+		"Environment":"Any",
+		"Source":"Puzzle Box (Kingmaker)"
+	},
+	{
+		"Name":"<a href='Toy%20Soldier%20Swarm'>Toy Soldier Swarm</a>",
+		"CR":"8",
+		"Type":"Construct (Swarm)",
+		"Environment":"-",
+		"Source":"Puzzle Box (Kingmaker)"
+	}
+]

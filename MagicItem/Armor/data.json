@@ -1,50 +1,9 @@
 [
 	{
-		"Name":"<a href='Lumestins%20Puzzle%20Box'>Lumestin's Puzzle Box</a>",
-		"Type":"Major Artifact",
-		"Slot":"None",
-		"CL":"18th",
-		"Aura":"Strong conjuration & enchantment",
-		"Source":"Puzzle Box Module from Kingmaker"
-	},
-	{
-		"Name":"<a href='Amulet%20of%20Arnuminel'>Amulet of Arnuminel</a>",
-		"Type":"Minor Artifact",
-		"Slot":"Neck",
-		"CL":"20th",
-		"Aura":"Strong abjuration [good]",
-		"Source":"Niobe"
-	},
-	{
-		"Name":"<a href='Charans%20Ring'>Charan's Ring</a>",
-		"Type":"Minor Artifact",
-		"Slot":"Ring",
-		"CL":"18th",
-		"Aura":"Overwhelming conjuration",
-		"Source":"Niobe"
-	},
-	{
-		"Name":"<a href='Soul%20Sunder'>Soul Sunder</a>",
-		"Type":"Major Artifact",
-		"Slot":"None",
-		"CL":"23rd",
-		"Aura":"Overwhelming necromancy",
-		"Source":"Niobe"
-	},
-	{
-		"Name":"<a href='Azure%20Pendant'>Azure Pendant</a>",
-		"Type":"Minor Artifact",
-		"Slot":"Neck",
-		"CL":"18th",
-		"Aura":"Strong abjuration",
-		"Source":"Vampire Hunter D"
-	},
-	{
-		"Name":"<a href='Lament%20Configuration'>Lament Configuration</a>",
-		"Type":"Major Artifact",
-		"Slot":"None",
-		"CL":"20th",
-		"Aura":"Strong conjuration (teleportation)",
-		"Source":"Hellraiser"
+		"Name":"<a href='One-Person%20Orchestra'>One-Person Orchestra</a>",
+		"CL":"12th",
+		"Price":"14,000 GP",
+		"Aura":"Strong abjuration, evocation, and transmutation",
+		"Source":"Puzzle Box (Kingmaker)"
 	}
 ]

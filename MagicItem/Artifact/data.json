@@ -5,7 +5,7 @@
 		"Slot":"None",
 		"CL":"18th",
 		"Aura":"Strong conjuration & enchantment",
-		"Source":"Puzzle Box Module from Kingmaker"
+		"Source":"Puzzle Box (Kingmaker)"
 	},
 	{
 		"Name":"<a href='Amulet%20of%20Arnuminel'>Amulet of Arnuminel</a>",
@@ -38,13 +38,5 @@
 		"CL":"18th",
 		"Aura":"Strong abjuration",
 		"Source":"Vampire Hunter D"
-	},
-	{
-		"Name":"<a href='Lament%20Configuration'>Lament Configuration</a>",
-		"Type":"Major Artifact",
-		"Slot":"None",
-		"CL":"20th",
-		"Aura":"Strong conjuration (teleportation)",
-		"Source":"Hellraiser"
 	}
 ]
