@@ -12,12 +12,13 @@ body {
 
 table {
 	color:#EFEFEF;
-	border-color:Gray;
+	border-color:darkgray;
 	border-width:1px;
 	border-style:Solid;
 	border-collapse:collapse;
 }
 th { color:#EFEFEF; }
+tr { border-bottom: 1pt solid darkgray; }
 
 h1 {
 	font-size: 1.75em;
