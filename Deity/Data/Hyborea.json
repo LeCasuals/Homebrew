@@ -1,20 +1,5 @@
 [
 	{
-		"Name":"<a href='Asura'>Asura</a>",
-		"Source":"Conan",
-		"Pantheon":"-",
-		"Alignment":"NG",
-		"Areas of Concern":"Reincarnation, Time, Illusion",
-		"Domains":[
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
-		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
-	},
-	{
 		"Name":"<a href='Bel'>Bel</a>",
 		"Source":"Conan",
 		"Pantheon":"-",
