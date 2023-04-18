@@ -46,24 +46,6 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Handaxe'>Handaxe</a>"
 	},
 	{
-		"Name":"<a href='Deity/Rhya'>Rhya</a>",
-		"Source":"Warhammer Fantasy",
-		"Pantheon":"Empire",
-		"Alignment":"NG",
-		"Areas of Concern":"Fertility, Harvest, Good Hunting, Life, Fair Weather",
-		"Domains":"To be filled",
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
-	},
-	{
-		"Name":"<a href='Deity/God-Emperor'>The God-Emperor of Mankind</a>",
-		"Source":"Warhammer 40K",
-		"Pantheon":"Imperium",
-		"Alignment":"LN",
-		"Areas of Concern":"Mankind, Unity, Cleansing Chaos",
-		"Domains":"To be filled",
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>"
-	},
-	{
 		"Name":"<a href='Deity/Conqueror%20Worm'>Conqueror Worm</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
@@ -131,6 +113,20 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+	},
+	{
+		"Name":"<a href='Deity/Unity'>Unity</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Numeria",
+		"Alignment":"LE",
+		"Areas of Concern":"Machines",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>"
 	},
 	{
 		"Name":"<a href='Deity/Hellion'>Hellion</a>",
