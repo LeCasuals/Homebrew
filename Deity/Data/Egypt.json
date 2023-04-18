@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Anhur'>Anhur</a>",
+		"Name":"<a href='Anhur'>Anhur</a>",
 		"Source":"Egyptian",
 		"Pantheon":"Egyptian",
 		"Alignment":"CG",
@@ -75,7 +75,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Hunga%20munga'>Hunga Munga</a>"
 	},
 	{
-		"Name":"<a href='Deity/Geb'>Geb</a>",
+		"Name":"<a href='Geb'>Geb</a>",
 		"Source":"Egyptian",
 		"Pantheon":"Egyptian",
 		"Alignment":"NG",
@@ -239,7 +239,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
 	},
 	{
-		"Name":"<a href='Deity/Seker'>Seker</a>",
+		"Name":"<a href='Seker'>Seker</a>",
 		"Source":"Egyptian",
 		"Pantheon":"Egyptian",
 		"Alignment":"NG",

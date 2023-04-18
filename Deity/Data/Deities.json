@@ -1,6 +1,6 @@
 [
 	{
-		"Name":"<a href='Deity/Sigmar'>Sigmar</a>",
+		"Name":"<a href='Sigmar'>Sigmar</a>",
 		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"LG",
@@ -16,7 +16,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>"
 	},
 	{
-		"Name":"<a href='Deity/Ulric'>Ulric</a>",
+		"Name":"<a href='Ulric'>Ulric</a>",
 		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"CG",
@@ -31,7 +31,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>"
 	},
 	{
-		"Name":"<a href='Deity/Taal'>Taal</a>",
+		"Name":"<a href='Taal'>Taal</a>",
 		"Source":"Warhammer Fantasy",
 		"Pantheon":"Empire",
 		"Alignment":"TN",
@@ -46,7 +46,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Handaxe'>Handaxe</a>"
 	},
 	{
-		"Name":"<a href='Deity/Conqueror%20Worm'>Conqueror Worm</a>",
+		"Name":"<a href='Conqueror%20Worm'>Conqueror Worm</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
 		"Alignment":"NE",
@@ -60,7 +60,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Simple'>A Simple Weapon</a>"
 	},
 	{
-		"Name":"<a href='Deity/Gendowyn'>Gendowyn</a>",
+		"Name":"<a href='Gendowyn'>Gendowyn</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Fey",
 		"Alignment":"CN",
@@ -73,7 +73,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
 	},
 	{
-		"Name":"<a href='Deity/Green%20Man'>Green Man (Good)</a>",
+		"Name":"<a href='Green%20Man'>Green Man (Good)</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
 		"Alignment":"NG",
@@ -87,7 +87,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
-		"Name":"<a href='Deity/Green%20Man'>Green Man (Neutral)</a>",
+		"Name":"<a href='Green%20Man'>Green Man (Neutral)</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
 		"Alignment":"TN",
@@ -101,7 +101,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
-		"Name":"<a href='Deity/Green%20Man'>Green Man (Evil)</a>",
+		"Name":"<a href='Green%20Man'>Green Man (Evil)</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
 		"Alignment":"NE",
@@ -115,7 +115,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
 	},
 	{
-		"Name":"<a href='Deity/Unity'>Unity</a>",
+		"Name":"<a href='Unity'>Unity</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Numeria",
 		"Alignment":"LE",
@@ -129,7 +129,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>"
 	},
 	{
-		"Name":"<a href='Deity/Hellion'>Hellion</a>",
+		"Name":"<a href='Hellion'>Hellion</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Numeria",
 		"Alignment":"CE",
@@ -143,7 +143,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20gauntlet'>Spiked Gauntlet</a>"
 	},
 	{
-		"Name":"<a href='Deity/Mog-Lathar'>Mog-Lathar</a>",
+		"Name":"<a href='Mog-Lathar'>Mog-Lathar</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
 		"Alignment":"CE",
@@ -156,7 +156,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Net'>Net</a>"
 	},
 	{
-		"Name":"<a href='Deity/The%20One%20True%20God'>The One True God</a>",
+		"Name":"<a href='The%20One%20True%20God'>The One True God</a>",
 		"Source":"Abrahamic",
 		"Pantheon":"Abrahamic",
 		"Alignment":"LN",
@@ -171,7 +171,7 @@
 		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20mace'>Heavy Mace</a>"
 	},
 	{
-		"Name":"<a href='Deity/Walkena'>Walkena</a>",
+		"Name":"<a href='Walkena'>Walkena</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Mwangi",
 		"Alignment":"LE",
@@ -184,7 +184,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
 	},
 	{
-		"Name":"<a href='Deity/Ancestral%20Spirits'>Ancestral Spirits</a>",
+		"Name":"<a href='Ancestral%20Spirits'>Ancestral Spirits</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"-",
 		"Alignment":"TN",
@@ -198,7 +198,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
 	},
 	{
-		"Name":"<a href='Deity/Morlock%20Ancestors'>Morlock Ancestors</a>",
+		"Name":"<a href='Morlock%20Ancestors'>Morlock Ancestors</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Morlock",
 		"Alignment":"CE",
@@ -212,7 +212,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
 	},
 	{
-		"Name":"<a href='Deity/Orc%20Cults'>Orc Cults</a>",
+		"Name":"<a href='Orc%20Cults'>Orc Cults</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Orc",
 		"Alignment":"CE",
@@ -228,7 +228,7 @@
 		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
 	},
 	{
-		"Name":"<a href='Deity/Shimye-Magalla'>Shimye-Magalla</a>",
+		"Name":"<a href='Shimye-Magalla'>Shimye-Magalla</a>",
 		"Source":"Pathfinder",
 		"Pantheon":"Mwangi",
 		"Alignment":"CN",
@@ -246,7 +246,7 @@
 		]
 	},
 	{
-		"Name":"<a href='Deity/Leviathan'>Leviathan</a>",
+		"Name":"<a href='Leviathan'>Leviathan</a>",
 		"Source":"Hellraiser",
 		"Pantheon":"Cenobite",
 		"Alignment":"LE",
