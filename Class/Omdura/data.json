@@ -1,0 +1,12 @@
+[
+	{
+		"Name":"<a href='Arcane%20Exemplar'>Arcane Exemplar</a>",
+		"Replaces":"Spells; Divine Touch; Divine Infusion; Divine Weapon",
+		"Summary":"In some cases, especially with regards to gods of magic, an omdura learns to manipulate magical forces and arcane secrets to aid her god. These omduras do not receive spells from their god, but instead gain arcane insight from their god that allows them to manipulate arcane energies."
+	},
+	{
+		"Name":"<a href='Exemplar%20of%20War'>Exemplar of War</a>",
+		"Replaces":"Spellcasting; Divine Infusion",
+		"Summary":"Some omduras are chosen by their gods to lead their followers into combat, waging war against the enemies of the faith. These warriors are unable to cast spells, but they command exceptional combat prowess that allows them to excel on the battlefield."
+	}
+]

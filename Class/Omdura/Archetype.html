@@ -9,6 +9,7 @@
     <meta name="description" content="Homebrew for Pathfinder 1e">
 	<link rel="stylesheet" href="../../styles.css">
 	<link rel="shortcut icon" href="../../favicon.ico">
+	<script src="../../constructTable.js" charset="utf-8"></script>
 	<style>h2{font-size:1.3em;margin-top:0px;}</style>
 </head>
 
@@ -31,8 +32,22 @@
 	<a href="Archetypes">Archetypes</a>
 	</h2>
 	
-	<h1 class="title">Omdura</h1>
+	<h1 class="title">Omdura Archetypes</h1>
 	<b>Source</b> Niobe<br />
-	
+	<table cellspacing="0" cellpadding="3" rules="cols" border="1" id="MainTable">
+	<caption><b>List of Archetypes<b/></caption>
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col" onclick="sortTable(0)" style="cursor:pointer">
+				Name
+			</th>
+			<th scope="col">
+				Replaces
+			</th>
+			<th scope="col">
+				Summary
+			</th>
+		</tr>
+	</table>
+	<script>ConstructTable()</script>
 </body>
 </html>
