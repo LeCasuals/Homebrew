@@ -1,0 +1,14 @@
+[
+	{
+		"Name":"<a href='Lycanthrope%20Hunter'>Lycanthrope Hunter</a>",
+		"Replaces":"Favored Enemy; Swift Tracker",
+		"Summary":"Lycanthropes, most notably werewolves, instill singular dread in the stories and fears of the Frontier’s peoples. While most simply pray that they’ll never encounter such bloodthirsty beasts, others hone their skills and sharpen silver blades, preparing themselves to hunt the most savage of quarries.",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Blood%20Hunter'>Blood Hunter</a>",
+		"Replaces":"Favored Enemy; 2nd-level Combat Style Feat; Woodland Stride; Favored Terrain; Spells; Quarry; Improved Quarry",
+		"Summary":"The blood hunters of Asunda are expert warriors who serve as the ultimate bounty hunters of the land. Their skills are unrivaled, and their uncanny prowess at tracking and hunting borders on the supernatural.",
+		"Source":"Niobe"
+	}
+]
