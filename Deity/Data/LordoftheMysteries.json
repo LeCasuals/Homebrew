@@ -12,7 +12,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Tyrant'>Tyrant</a>",
@@ -27,7 +28,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Cutlass'>Cutlass</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Cutlass'>Cutlass</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='White%20Tower'>White Tower</a>",
@@ -39,7 +41,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>"
 		],
-		"Favored Weapon":" None"
+		"Favored Weapon":" None",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Visionary'>Visionary</a>",
@@ -53,7 +56,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Hanged%20Man'>Hanged Man</a>",
@@ -68,7 +72,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Twilight%20Giant'>Twilight Giant</a>",
@@ -83,7 +88,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Martial'>A martial weapon</a>"
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Martial'>A martial weapon</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Death'>Death</a>",
@@ -96,7 +102,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Darkness'>Darkness</a>",
@@ -110,7 +117,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Fool'>Fool</a>",
@@ -125,7 +133,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Pistol'>Pistol</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Pistol'>Pistol</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Door'>Door</a>",
@@ -139,7 +148,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Error'>Error</a>",
@@ -154,7 +164,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Catch%20Off-Guard'>Improvised Weapons</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Catch%20Off-Guard'>Improvised Weapons</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Red%20Priest'>Red Priest</a>",
@@ -169,7 +180,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Demoness'>Demoness</a>",
@@ -184,7 +196,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Paragon'>Paragon</a>",
@@ -197,7 +210,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/Rules.aspx?Name=Throw%20Splash%20Weapon&Category=Special%20Attacks'>Splash Weapons</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/Rules.aspx?Name=Throw%20Splash%20Weapon&Category=Special%20Attacks'>Splash Weapons</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Hermit'>Hermit</a>",
@@ -211,7 +225,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Wheel%20of%20Fortune'>Wheel of Fortune</a>",
@@ -236,7 +251,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Moon'>Moon</a>",
@@ -250,7 +266,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Bite/Slam</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Bite/Slam</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Black%20Emperor'>Black Emperor</a>",
@@ -265,7 +282,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Justiciar'>Justiciar</a>",
@@ -279,7 +297,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Chained%20Devil'>Chained Devil</a>",
@@ -293,7 +312,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Unarmed Strike</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Unarmed Strike</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Abyss'>Abyss</a>",
@@ -307,6 +327,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
 		],
-		"Favored Weapon":" Undecided"
+		"Favored Weapon":" Undecided",
+		"Toggle Data":"H"
 	}
 ]

@@ -11,7 +11,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Crom'>Crom</a>",
@@ -20,7 +21,8 @@
 		"Alignment":"TN",
 		"Areas of Concern":"Strength, Mountain, Independence",
 		"Domains":"None",
-		"Favored Weapon":"None"
+		"Favored Weapon":"None",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Derketo'>Derketo</a>",
@@ -35,7 +37,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Erlik'>Erlik</a>",
@@ -50,7 +53,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Jhebbal%20Sag'>Jhebbal Sag</a>",
@@ -64,7 +68,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Mitra'>Mitra</a>",
@@ -80,7 +85,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Valka'>Valka</a>",
@@ -95,7 +101,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Yog'>Yog</a>",
@@ -110,7 +117,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Zath'>Zath</a>",
@@ -125,6 +133,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Net'>Net</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Net'>Net</a>",
+		"Toggle Data":"H"
 	}
 ]

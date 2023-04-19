@@ -1,4 +1,9 @@
+var SortVal = 0;
+
+function sortTable() { sortTable(SortVal); }
+
 function sortTable(n) {
+  SortVal = n;
   // Set the sorting direction to ascending:
   var shouldSwitch, switching, switchcount = 0, dir = "asc";
   const rows = document.getElementById("MainTable").rows;
@@ -14,8 +19,8 @@ function sortTable(n) {
       shouldSwitch = false;
       /* Get the two elements you want to compare,
       one from current row and one from the next: */
-      var x = rows[i].getElementsByTagName("TD")[n];
-      var y = rows[i + 1].getElementsByTagName("TD")[n];
+      let x = rows[i].getElementsByTagName("TD")[n];
+      let y = rows[i + 1].getElementsByTagName("TD")[n];
       /* Check if the two rows should switch place,
       based on the direction, asc or desc: */
       if (dir == "asc") {
@@ -49,7 +54,10 @@ function sortTable(n) {
     }
   } while (switching);
   
+  var flipflop = true;
   for (var i = 1; i < rows.length; i++) {
-    rows[i].style.background = (i % 2 == 0) ? "#323232" : "#626262";
+	if (rows[i].style.display == "none") continue;
+    rows[i].style.background = flipflop ? "#323232" : "#626262";
+	flipflop = !flipflop;
   }
 }

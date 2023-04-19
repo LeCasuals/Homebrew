@@ -12,7 +12,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Anubis'>Anubis</a>",
@@ -27,7 +28,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Apep'>Apep</a>",
@@ -42,7 +44,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Dagger</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Dagger</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Bastet'>Bastet</a>",
@@ -57,7 +60,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tekko-kagi'>Tekko-kagi</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tekko-kagi'>Tekko-kagi</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Bes'>Bes</a>",
@@ -72,7 +76,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Hunga%20munga'>Hunga Munga</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Hunga%20munga'>Hunga Munga</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='Geb'>Geb</a>",
@@ -86,7 +91,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Hathor'>Hathor</a>",
@@ -101,7 +107,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Horus'>Horus</a>",
@@ -116,7 +123,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Khopesh'>Khopesh</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Khopesh'>Khopesh</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Isis'>Isis</a>",
@@ -131,7 +139,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Khepri'>Khepri</a>",
@@ -146,7 +155,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sling'>Sling</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sling'>Sling</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Maat'>Maat</a>",
@@ -161,7 +171,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Neith'>Neith</a>",
@@ -176,7 +187,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Shortbow'>Shortbow</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Shortbow'>Shortbow</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Nephthys'>Nephthys</a>",
@@ -191,7 +203,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Osiris'>Osiris</a>",
@@ -206,7 +219,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Flail'>Flail</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Ptah'>Ptah</a>",
@@ -221,7 +235,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Ra'>Ra</a>",
@@ -236,7 +251,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='Seker'>Seker</a>",
@@ -253,7 +269,8 @@
 		"Favored Weapon":[
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Halberd'>Halberd</a>", 
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Mace'>Mace</a>"
-		]
+		],
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Sekhmet'>Sekhmet</a>",
@@ -268,7 +285,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Sekhmet'>Selket</a>",
@@ -283,7 +301,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scorpion%20whip'>Scorpion Whip</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scorpion%20whip'>Scorpion Whip</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Set'>Set</a>",
@@ -299,7 +318,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Scalykind'>Scalykind</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Sobek'>Sobek</a>",
@@ -314,7 +334,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Thoth'>Thoth</a>",
@@ -329,7 +350,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Rune'>Rune</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://aonprd.com/DeityDisplay.aspx?ItemName=Wadjet'>Wadjet</a>",
@@ -344,6 +366,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>",
+		"Toggle Data":"N"
 	}
 ]

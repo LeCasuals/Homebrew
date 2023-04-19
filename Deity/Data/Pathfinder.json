@@ -1,0 +1,217 @@
+[
+	{
+		"Name":"<a href='Conqueror%20Worm'>Conqueror Worm</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"-",
+		"Alignment":"NE",
+		"Areas of Concern":"Weath, Power, Control, Sin",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeapons.aspx?Proficiency=Simple'>A Simple Weapon</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Gendowyn'>Gendowyn</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Fey",
+		"Alignment":"CN",
+		"Areas of Concern":"Fangwood Forest, Preservation, Protection",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Green%20Man'>Green Man (Good)</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"-",
+		"Alignment":"NG",
+		"Areas of Concern":"Primeval Forest, Flora",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Green%20Man'>Green Man (Neutral)</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"-",
+		"Alignment":"TN",
+		"Areas of Concern":"Primeval Forest, Flora",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Green%20Man'>Green Man (Evil)</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"-",
+		"Alignment":"NE",
+		"Areas of Concern":"Primeval Forest, Flora",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sickle'>Sickle</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Unity'>Unity</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Numeria",
+		"Alignment":"LE",
+		"Areas of Concern":"Machines",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Hellion'>Hellion</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Numeria",
+		"Alignment":"CE",
+		"Areas of Concern":"Machines",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20gauntlet'>Spiked Gauntlet</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Mog-Lathar'>Mog-Lathar</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"-",
+		"Alignment":"CE",
+		"Areas of Concern":"Immortality, Leng, Dreams",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Net'>Net</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='The%20One%20True%20God'>The One True God</a>",
+		"Source":"Abrahamic",
+		"Pantheon":"Abrahamic",
+		"Alignment":"LN",
+		"Areas of Concern":"Salvation, Eternal Life",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Heavy%20mace'>Heavy Mace</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Walkena'>Walkena</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Mwangi",
+		"Alignment":"LE",
+		"Areas of Concern":"Death, Judgment, Underworld",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Ancestral%20Spirits'>Ancestral Spirits</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Giant Deities",
+		"Alignment":"TN",
+		"Areas of Concern":"Divine spirits of stone giants, Earth, Mountains",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Morlock%20Ancestors'>Morlock Ancestors</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Morlock",
+		"Alignment":"CE",
+		"Areas of Concern":"Morlocks",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Club'>Club</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Orc%20Cults'>Orc Cults</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Orc",
+		"Alignment":"CE",
+		"Areas of Concern":"Orcs",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Falchion'>Falchion</a>",
+		"Toggle Data":""
+	},
+	{
+		"Name":"<a href='Shimye-Magalla'>Shimye-Magalla</a>",
+		"Source":"Pathfinder",
+		"Pantheon":"Mwangi",
+		"Alignment":"CN",
+		"Areas of Concern":"Sky, Wind, Sea, Sailors",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":[
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Starknife'>Starknife</a>", 
+			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Trident'>Trident</a>"
+		],
+		"Toggle Data":""
+	}
+]
+	

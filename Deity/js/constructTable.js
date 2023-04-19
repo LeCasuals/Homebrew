@@ -25,6 +25,7 @@ fetch("Data/MasterList.csv")
 				for (let j = 0; j < cols.length; j++) {
 					let cell = trow.insertCell(-1);
 					cell.innerHTML = list[i][cols[j]]; // Inserting the cell at particular place
+					if (j == cols.length - 1) cell.style.display = "none";
 				}
 			}
 		}));

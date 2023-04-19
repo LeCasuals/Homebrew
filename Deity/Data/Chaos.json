@@ -16,7 +16,8 @@
 		"Favored Weapon":[
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>", 
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Greataxe'>Greataxe</a>"
-		]
+		],
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Tzeentch'>Tzeentch</a>",
@@ -32,7 +33,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Nurgle'>Nurgle</a>",
@@ -48,7 +50,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Slaneesh'>Slaneesh</a>",
@@ -64,7 +67,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Belakor'>Be'lakor</a>",
@@ -78,7 +82,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Great%20Horned%20Rat'>Great Horned Rat</a>",
@@ -94,7 +99,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tailblade,%20ratfolk'>Tailblade</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Tailblade,%20ratfolk'>Tailblade</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Malal'>Malal</a>",
@@ -109,7 +115,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crescent-blade/'>Crescent Blade</a>"
+		"Favored Weapon":" <a href='https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crescent-blade/'>Crescent Blade</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Vashtorr'>Vashtorr</a>",
@@ -123,6 +130,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20hammer'>Light Hammer</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20hammer'>Light Hammer</a>",
+		"Toggle Data":"H"
 	}
 ]

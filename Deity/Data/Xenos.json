@@ -9,7 +9,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Natural Weapons</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Vawk'>Vawk</a>",
@@ -25,7 +26,8 @@
 		"Favored Weapon":[
 			" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Beak</a>", 
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>"
-		]
+		],
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Gmork'>Gmork</a>",
@@ -38,6 +40,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Fist</a>",
+		"Toggle Data":"H"
 	}
 ]

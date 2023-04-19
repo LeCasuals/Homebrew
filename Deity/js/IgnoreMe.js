@@ -19,7 +19,8 @@ var data = [
 		"Favored Weapon":[
 			"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>", 
 			" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Greataxe'>Greataxe</a>"
-		]
+		],
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Tzeentch</a>",
@@ -38,7 +39,8 @@ var data = [
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>"
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"N"
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Nurgle</a>",
@@ -56,7 +58,8 @@ var data = [
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>"
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Scythe'>Scythe</a>",
+		"Toggle Data":"HN"
 	},
 	{
 		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Ghlaunder'>Slaneesh</a>",
@@ -73,12 +76,12 @@ var data = [
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			"<a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>"
+		"Favored Weapon":"<a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Whip'>Whip</a>",
+		"Toggle Data":""
 	}
-]
-	;
+];
 
-var table = document.getElementById("DeityTable");
+var table = document.getElementById("MainTable");
  
 const list = JSON.parse(JSON.stringify(data));
 			 
@@ -91,7 +94,6 @@ for (var i = 0; i < list.length; i++) {
 	}
 }
 
-
 // Adding the data to the table
 for (var i = 0; i < list.length; i++) {
 	// Create a new row
@@ -103,6 +105,7 @@ for (var i = 0; i < list.length; i++) {
 		 
 		// Inserting the cell at particular place
 		cell.innerHTML = list[i][cols[j]];
+		if (j == cols.length - 1) cell.style.display = "none";
 	}
 }
 	

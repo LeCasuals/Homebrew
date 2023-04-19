@@ -11,7 +11,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20leafblade'>Elven Leafblade</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20leafblade'>Elven Leafblade</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Isha'>Isha</a>",
@@ -25,7 +26,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20branched%20spear'>Elven Branched Spear</a>"
+		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20branched%20spear'>Elven Branched Spear</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Khaine'>Khaine</a>",
@@ -39,7 +41,8 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade'>Elven Curve Blade</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade'>Elven Curve Blade</a>",
+		"Toggle Data":"H"
 	},
 	{
 		"Name":"<a href='Ynnead'>Ynnead</a>",
@@ -53,6 +56,7 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20thornblade'>Elven Thornblade</a>"
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20thornblade'>Elven Thornblade</a>",
+		"Toggle Data":"H"
 	}
 ]

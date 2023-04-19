@@ -10,11 +10,27 @@
 	<link rel="stylesheet" href="../styles.css">
 	<link rel="shortcut icon" href="../favicon.ico">
 	<script src="../sort.js" charset="utf-8"></script>
-	<script src="constructTable.js" charset="utf-8"></script>
+	<script src="js/constructTable.js" charset="utf-8"></script>
+	<script src="js/toggle.js" charset="utf-8"></script>
 </head>
 
 <body>
 	<h1 style="text-align:center;"><a href="../index.html">Homebrew Mainpage</a> | <a href="https://www.aonprd.com/">Archives of Nethys</a></h1><hr />
+	
+	Here are a list of Homebrewed and Modified Deities for Pathfinder 1E.<br />
+	Some links redirect to Nethys, some redirect to simple worship stat-block that has been added onto.<br />
+	For example, the deity may now have subdomains when previously it did not.<br /><br />
+	
+	<label class="switch">
+		<input type="checkbox" id="NethysToggle" onclick="Toggle(this.checked,'N')"checked>
+		<span class="slider round"></span>
+	</label> Show Entries also on Nethys
+	
+	<label class="switch">
+		<input type="checkbox" id="HomebrewToggle" onclick="Toggle(this.checked,'H')" checked>
+		<span class="slider round"></span>
+	</label> Show Homebrew Entries
+
 	<table cellspacing="0" cellpadding="3" rules="cols" border="1" id="MainTable">
 	<caption><b>List of Deities<b/></caption>
 		<tr style="color:White;background-color:Black;font-weight:bold;">
@@ -39,8 +55,11 @@
 			<th scope="col" onclick="sortTable(6)" style="cursor:pointer">
 				Favoured Weapon
 			</th>
+			<th scope="col" style="display:none;">
+				Toggle Data
+			</th>
 		</tr>
 	</table>
-	<!--<script src="IgnoreMe.js" charset="utf-8"></script>-->
+	<!--<script src="js/IgnoreMe.js" charset="utf-8"></script>-->
 </body>
 </html>
