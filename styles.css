@@ -135,7 +135,7 @@ A:hover { text-decoration: underline; }
   width: 17px;
   left: 4px;
   bottom: 4px;
-  background-color: white;
+  background-color: black;
   transition: .2s;
 }
 
