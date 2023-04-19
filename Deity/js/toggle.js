@@ -6,5 +6,5 @@ function Toggle(toggle, letter) {
 		  rows[i].style.display = toggle ? "table-row" : "none";
 	  }
 	}
-	sortTable(1);
+	colorCode();
 }
