@@ -1,3 +1,13 @@
+function colorCode() {
+  let flipflop = true;
+  const rows = document.getElementById("MainTable").rows;
+  for (var i = 1; i < rows.length; i++) {
+	if (rows[i].style.display == "none") continue;
+    rows[i].style.background = flipflop ? "#323232" : "#626262";
+	flipflop = !flipflop;
+  }
+}
+
 function sortTable(n) {
   // Set the sorting direction to ascending:
   let shouldSwitch, switching, switchcount = 0, dir = "asc";
@@ -50,13 +60,4 @@ function sortTable(n) {
   } while (switching);
 
   colorCode();
-}
-
-function colorCode() {
-  var flipflop = true;
-  for (var i = 1; i < rows.length; i++) {
-	if (rows[i].style.display == "none") continue;
-    rows[i].style.background = flipflop ? "#323232" : "#626262";
-	flipflop = !flipflop;
-  }
 }
