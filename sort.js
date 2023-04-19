@@ -9,7 +9,7 @@ function sortTable(n) {
     switching = false;
     /* Loop through all table rows (except the
     first, which contains table headers): */
-    for (let i = 1; i < (rows.length - 1); i++) {
+    for (var i = 1; i < (rows.length - 1); i++) {
       // Start by saying there should be no switching:
       shouldSwitch = false;
       /* Get the two elements you want to compare,
@@ -48,13 +48,13 @@ function sortTable(n) {
       }
     }
   } while (switching);
-  
+
   colorCode();
 }
 
 function colorCode() {
   var flipflop = true;
-  for (let i = 1; i < rows.length; i++) {
+  for (var i = 1; i < rows.length; i++) {
 	if (rows[i].style.display == "none") continue;
     rows[i].style.background = flipflop ? "#323232" : "#626262";
 	flipflop = !flipflop;
