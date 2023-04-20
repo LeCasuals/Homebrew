@@ -232,7 +232,7 @@
 		"Name":"<a href='Wheel%20of%20Fortune'>Wheel of Fortune</a>",
 		"Source":"Lord of the Mysteries",
 		"Pantheon":"-",
-		"Alignment":"-",
+		"Alignment":"TN",
 		"Areas of Concern":"Fate, Luck and Probability",
 		"Domains":" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
 		"Favored Weapon":" Undecided"
@@ -245,7 +245,6 @@
 		"Areas of Concern":"Plants and earth, Healing and Medicine, Splicing, Chimeras",
 		"Domains":[
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
