@@ -1,11 +1,27 @@
 [
 	{
-		"Name":"<a href='Sigmar'>Sigmar</a>",
-		"Source":"Warhammer Fantasy",
-		"Pantheon":"Empire",
-		"Alignment":"LG",
-		"Areas of Concern":"Mankind, Unity, Cleansing Chaos",
-		"Domains":[
+		"Name": "<a href='Leviathan'>Leviathan</a>",
+		"Source": "Hellraiser",
+		"Pantheon": "Cenobite",
+		"Alignment": "LE",
+		"Areas of Concern": "Flesh, Hunger, Desire",
+		"Domains": [
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
+		],
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20chain'>Spiked Chain</a>",
+		"Toggle Data": "H"
+	},
+	{
+		"Name": "<a href='Sigmar'>Sigmar</a>",
+		"Source": "Warhammer Fantasy",
+		"Pantheon": "Empire",
+		"Alignment": "LG",
+		"Areas of Concern": "Mankind, Unity, Cleansing Chaos",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
@@ -13,56 +29,39 @@
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
+		"Toggle Data": "H"
 	},
 	{
-		"Name":"<a href='Ulric'>Ulric</a>",
-		"Source":"Warhammer Fantasy",
-		"Pantheon":"Empire",
-		"Alignment":"CG",
-		"Areas of Concern":"Battle, War, Winter, Wolves, Barbarism",
-		"Domains":[
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
-		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>",
-		"Toggle Data":"H"
-	},
-	{
-		"Name":"<a href='Taal'>Taal</a>",
-		"Source":"Warhammer Fantasy",
-		"Pantheon":"Empire",
-		"Alignment":"TN",
-		"Areas of Concern":"Forces of Nature, Beasts, Forests, Mountains, Wild Places",
-		"Domains":[
+		"Name": "<a href='Taal'>Taal</a>",
+		"Source": "Warhammer Fantasy",
+		"Pantheon": "Empire",
+		"Alignment": "TN",
+		"Areas of Concern": "Forces of Nature, Beasts, Forests, Mountains, Wild Places",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Handaxe'>Handaxe</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Handaxe'>Handaxe</a>",
+		"Toggle Data": "H"
 	},
 	{
-		"Name":"<a href='Leviathan'>Leviathan</a>",
-		"Source":"Hellraiser",
-		"Pantheon":"Cenobite",
-		"Alignment":"LE",
-		"Areas of Concern":"Flesh, Hunger, Desire",
-		"Domains":[
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
-			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
+		"Name": "<a href='Ulric'>Ulric</a>",
+		"Source": "Warhammer Fantasy",
+		"Pantheon": "Empire",
+		"Alignment": "CG",
+		"Areas of Concern": "Battle, War, Winter, Wolves, Barbarism",
+		"Domains": [
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spiked%20chain'>Spiked Chain</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>",
+		"Toggle Data": "H"
 	}
 ]
-	

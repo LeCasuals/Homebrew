@@ -1,130 +1,130 @@
 [
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Azathoth'>Azathoth</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CN",
-		"Areas of Concern":"Entropy, madness, mindless destruction",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Azathoth'>Azathoth</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CN",
+		"Areas of Concern": "Entropy, madness, mindless destruction",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
+		"Toggle Data": "N"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nhimbaloth'>Nhimbaloth</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CE",
-		"Areas of Concern":"Despair, ghosts, swamps",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nhimbaloth'>Nhimbaloth</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CE",
+		"Areas of Concern": "Despair, ghosts, swamps",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
+		"Toggle Data": "N"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Black%20Pharaoh)'>Nyarlathotep (Black Pharoah)</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CE",
-		"Areas of Concern":"Conspiracies, dangerous secrets, forbidden magic",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Black%20Pharaoh)'>Nyarlathotep (Black Pharoah)</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CE",
+		"Areas of Concern": "Conspiracies, dangerous secrets, forbidden magic",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data": "N"
 	},
 	{
-		"Name":"<a href='Nyarlathotep'>Nyarlathotep (Crawling Chaos)</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CE",
-		"Areas of Concern":"Conspiracies, dangerous secrets, forbidden magic",
-		"Domains":[
+		"Name": "<a href='Nyarlathotep'>Nyarlathotep (Crawling Chaos)</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CE",
+		"Areas of Concern": "Conspiracies, dangerous secrets, forbidden magic",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
-		"Toggle Data":""
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data": ""
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Black%20Pharaoh)'>Nyarlathotep (Faceless Sphinx)</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CE",
-		"Areas of Concern":"Conspiracies, dangerous secrets, forbidden magic",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Black%20Pharaoh)'>Nyarlathotep (Faceless Sphinx)</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CE",
+		"Areas of Concern": "Conspiracies, dangerous secrets, forbidden magic",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Punching%20dagger'>Punching Dagger</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Punching%20dagger'>Punching Dagger</a>",
+		"Toggle Data": "N"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Black%20Pharaoh)'>Nyarlathotep (Haunter of the Dark)</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CE",
-		"Areas of Concern":"Conspiracies, dangerous secrets, forbidden magic",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Nyarlathotep%20(Black%20Pharaoh)'>Nyarlathotep (Haunter of the Dark)</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CE",
+		"Areas of Concern": "Conspiracies, dangerous secrets, forbidden magic",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data": "N"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shub-Niggurath'>Shub-Niggurath</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CE",
-		"Areas of Concern":"Fertility, forests, monsters",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shub-Niggurath'>Shub-Niggurath</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CE",
+		"Areas of Concern": "Fertility, forests, monsters",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data": "N"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yog-Sothoth'>Yog-Sothoth</a>",
-		"Source":"Lovecraft",
-		"Pantheon":"Outer God",
-		"Alignment":"CN",
-		"Areas of Concern":"Gates, space, time",
-		"Domains":[
+		"Name": "<a href='https://www.aonprd.com/DeityDisplay.aspx?ItemName=Yog-Sothoth'>Yog-Sothoth</a>",
+		"Source": "Lovecraft",
+		"Pantheon": "Outer God",
+		"Alignment": "CN",
+		"Areas of Concern": "Gates, space, time",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Darkness'>Darkness</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Void'>Void</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
-		"Toggle Data":"N"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data": "N"
 	}
 ]

@@ -1,62 +1,62 @@
 [
 	{
-		"Name":"<a href='Cegorach'>Cegorach</a>",
-		"Source":"Warhammer 40K",
-		"Pantheon":"Eldar",
-		"Alignment":"CN",
-		"Areas of Concern":"Clowns, Trickery, Eldar",
-		"Domains":[
+		"Name": "<a href='Cegorach'>Cegorach</a>",
+		"Source": "Warhammer 40K",
+		"Pantheon": "Eldar",
+		"Alignment": "CN",
+		"Areas of Concern": "Clowns, Trickery, Eldar",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Liberation'>Liberation</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20leafblade'>Elven Leafblade</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20leafblade'>Elven Leafblade</a>",
+		"Toggle Data": "H"
 	},
 	{
-		"Name":"<a href='Isha'>Isha</a>",
-		"Source":"Warhammer 40K",
-		"Pantheon":"Eldar",
-		"Alignment":"NG",
-		"Areas of Concern":"Medicine, Healing, Fertility, Harvest, Eldar",
-		"Domains":[
+		"Name": "<a href='Isha'>Isha</a>",
+		"Source": "Warhammer 40K",
+		"Pantheon": "Eldar",
+		"Alignment": "NG",
+		"Areas of Concern": "Medicine, Healing, Fertility, Harvest, Eldar",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
 		],
-		"Favored Weapon":" <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20branched%20spear'>Elven Branched Spear</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20branched%20spear'>Elven Branched Spear</a>",
+		"Toggle Data": "H"
 	},
 	{
-		"Name":"<a href='Khaine'>Khaine</a>",
-		"Source":"Warhammer 40K",
-		"Pantheon":"Eldar",
-		"Alignment":"CN",
-		"Areas of Concern":"Murder, Violence, Destruction, War, Rejuvenation, Eldar",
-		"Domains":[
+		"Name": "<a href='Khaine'>Khaine</a>",
+		"Source": "Warhammer 40K",
+		"Pantheon": "Eldar",
+		"Alignment": "CN",
+		"Areas of Concern": "Murder, Violence, Destruction, War, Rejuvenation, Eldar",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade'>Elven Curve Blade</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20curve%20blade'>Elven Curve Blade</a>",
+		"Toggle Data": "H"
 	},
 	{
-		"Name":"<a href='Ynnead'>Ynnead</a>",
-		"Source":"Warhammer 40K",
-		"Pantheon":"Eldar",
-		"Alignment":"TN",
-		"Areas of Concern":"Death, Souls, Eldar",
-		"Domains":[
+		"Name": "<a href='Ynnead'>Ynnead</a>",
+		"Source": "Warhammer 40K",
+		"Pantheon": "Eldar",
+		"Alignment": "TN",
+		"Areas of Concern": "Death, Souls, Eldar",
+		"Domains": [
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
 			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>"
 		],
-		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20thornblade'>Elven Thornblade</a>",
-		"Toggle Data":"H"
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Elven%20thornblade'>Elven Thornblade</a>",
+		"Toggle Data": "H"
 	}
 ]
