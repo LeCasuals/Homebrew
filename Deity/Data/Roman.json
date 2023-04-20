@@ -1,0 +1,301 @@
+[
+	{
+		"Name":"<a href='Aphrodite'>Aphrodite</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CN",
+		"Areas of Concern":"Love, Beauty, Light",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Charm'>Charm</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Apollo'>Apollo</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CG",
+		"Areas of Concern":"Light, Music, Healing, Prophecy",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Healing'>Healing</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longbow'>Longbow</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Ares'>Ares</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CE",
+		"Areas of Concern":"War, Strife",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Shortspear'>Shortspear</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Artemis'>Artemis</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"TN",
+		"Areas of Concern":"Hunt, Birth, Life, Nature",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Sun'>Sun</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Short Sword</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Athena'>Athena</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"LG",
+		"Areas of Concern":"Wisdom, Civilization, Knowledge, War",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Shortspear'>Shortspear</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Bacchus'>Bacchus</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CN",
+		"Areas of Concern":"Mirth, Wine, Life, Madness",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Demeter'>Demeter</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"NG",
+		"Areas of Concern":"Agriculture, Life, Plant",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Spear'>Spear</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Hades'>Hades</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"NE",
+		"Areas of Concern":"Death, Underworld, Wealth",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Death'>Death</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Longsword'>Longsword</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Hecate'>Hecate</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CE",
+		"Areas of Concern":"Magic, Moon, Knowledge, Trickery",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Evil'>Evil</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Hera'>Hera</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CN",
+		"Areas of Concern":"Marriage, Intrigue, Trickery",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Hercules'>Hercules</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CG",
+		"Areas of Concern":"Marriage, Intrigue, Trickery",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Greatclub'>Greatclub</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Hestia'>Hestia</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"NG",
+		"Areas of Concern":"Marriage, Intrigue, Trickery",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Dagger'>Dagger</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Mercury'>Mercury</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CG",
+		"Areas of Concern":"Travel, Commerce, Tricks, Gamble",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Quarterstaff'>Quarterstaff</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Nike'>Nike</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CG",
+		"Areas of Concern":"Victory, War",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Law'>Law</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20mace'>Light Mace</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Pan'>Pan</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CN",
+		"Areas of Concern":"Nature",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>"
+		],
+		"Favored Weapon":" <a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike'>Unarmed Strike</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Poseidon'>Poseidon</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"CN",
+		"Areas of Concern":"Sea, Earthquakes, Tempest",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Trident'>Trident</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Sylvanus'>Sylvanus</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"TN",
+		"Areas of Concern":"Nature, Forests",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Animal'>Animal</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Plant'>Plant</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Repose'>Repose</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Water'>Water</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Maul'>Maul</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Fortuna'>Fortuna</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"TN",
+		"Areas of Concern":"Luck, Fortune, Trickery",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Luck'>Luck</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Protection'>Protection</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Travel'>Travel</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Short%20sword'>Swort Sword</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Vulcan'>Vulcan</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"NG",
+		"Areas of Concern":"Smith, Craft. Knowledge",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Artifice'>Artifice</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Community'>Community</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Earth'>Earth</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Fire'>Fire</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Hammer'>Hammer</a>",
+		"Toggle Data":"H"
+	},
+	{
+		"Name":"<a href='Zeus'>Zeus</a>",
+		"Source":"Greek/Rome",
+		"Pantheon":"Greek/Rome",
+		"Alignment":"NG",
+		"Areas of Concern":"Sky, Leadership, Heaven, Law, Weather",
+		"Domains":[
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Air'>Air</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Good'>Good</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Weather'>Weather</a>"
+		],
+		"Favored Weapon":" <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Shortspear'>Shortspear</a>",
+		"Toggle Data":"H"
+	}
+]
