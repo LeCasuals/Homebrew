@@ -63,5 +63,20 @@
 		],
 		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Battleaxe'>Battleaxe</a>",
 		"Toggle Data": "H"
+	},
+	{
+		"Name": "<a href='Bhazo'>Bhazo</a>",
+		"Source": "Villains By Necessity",
+		"Pantheon": "",
+		"Alignment": "CN",
+		"Areas of Concern": "Knowledge, Power, Greed, Insanity, Dominance",
+		"Domains": [
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Knowledge'>Knowledge</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Madness'>Madness</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>"
+		],
+		"Favored Weapon": " <a href='https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Garrote'>Garrote</a>",
+		"Toggle Data": "H"
 	}
 ]
