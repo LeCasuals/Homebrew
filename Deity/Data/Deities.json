@@ -1,5 +1,21 @@
 [
 	{
+		"Name": "<a href='God-Emperor of Mankind'>God-Emperor of Mankind</a>",
+		"Source": "Warhammer",
+		"Pantheon": "Imperium",
+		"Alignment": "LN",
+		"Areas of Concern": "Humanity",
+		"Domains": [
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Glory'>Glory</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Magic'>Magic</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Nobility'>Nobility</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Warhammer'>Warhammer</a>",
+		"Toggle Data": "H"
+	},
+	{
 		"Name": "<a href='Leviathan'>Leviathan</a>",
 		"Source": "Hellraiser",
 		"Pantheon": "Cenobite",

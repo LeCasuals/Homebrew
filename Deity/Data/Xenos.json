@@ -14,6 +14,38 @@
 		"Toggle Data": "H"
 	},
 	{
+		"Name": "<a href='Gork'>Gork</a>",
+		"Source": "Warhammer 40K",
+		"Pantheon": "Ork",
+		"Alignment": "CE",
+		"Areas of Concern": "Brutality, Cunning, Orks",
+		"Domains": [
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Orc%20double%20axe'>Orc Double Axe</a>",
+		"Toggle Data": "H"
+	},
+	{
+		"Name": "<a href='Mork'>Mork</a>",
+		"Source": "Warhammer 40K",
+		"Pantheon": "Ork",
+		"Alignment": "CE",
+		"Areas of Concern": "Brutality, Cunning, Orks",
+		"Domains": [
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Chaos'>Chaos</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Destruction'>Destruction</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Strength'>Strength</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=Trickery'>Trickery</a>",
+			" <a href='https://aonprd.com/DomainDisplay.aspx?ItemName=War'>War</a>"
+		],
+		"Favored Weapon": " <a href='https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Orc%20double%20axe'>Orc Double Axe</a>",
+		"Toggle Data": "H"
+	},
+	{
 		"Name": "<a href='Qah'>Qah</a>",
 		"Source": "Warhammer 40K",
 		"Pantheon": "Slah-Haii",
