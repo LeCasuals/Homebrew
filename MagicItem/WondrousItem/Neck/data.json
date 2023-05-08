@@ -5,5 +5,12 @@
 		"Price":"10,500 GP",
 		"Aura":"Moderate divination",
 		"Source":"Worldscape"
+	},
+	{
+		"Name":"<a href='Sins Spearhead'>Sin's Spearhead</a>",
+		"CL":"12th",
+		"Price":"80,000 GP",
+		"Aura":"Strong divination and transmutation",
+		"Source":"Niobe"
 	}
 ]
