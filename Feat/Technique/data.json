@@ -25,7 +25,7 @@
 	},
 	{
 		"Name":"<a href='Liberating%20Critical'>Liberating Critical</a>",
-		"Prerequisite":"Base Attack Bonus +9",
+		"Prerequisite":"BAB +9",
 		"Description":"Your jarring blows can cleanse your enemies’ minds of supernatural control.",
 		"Source":"Vampire Hunter D"
 	},
@@ -37,7 +37,7 @@
 	},
 	{
 		"Name":"<a href='Revealing%20Waters'>Revealing Waters</a>",
-		"Prerequisite":"Blessed Waters, Base Attack Bonus +9",
+		"Prerequisite":"Blessed Waters, BAB +9",
 		"Description":"Your holy water washes away falsehoods.",
 		"Source":"Vampire Hunter D"
 	},

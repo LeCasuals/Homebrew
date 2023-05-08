@@ -31,7 +31,7 @@
 	},
 	{
 		"Name":"<a href='Hunger%20For%20Magic'>Hunger For Magic</a>",
-		"Prerequisite":"Countenanced Carbuncle, Hand's Hunger, Base Attack Bonus +11",
+		"Prerequisite":"Countenanced Carbuncle, Hand's Hunger, BAB +11",
 		"Description":"Your countenanced carbuncle can open its mouth and suck in magical effects.",
 		"Source":"Vampire Hunter D"
 	}
