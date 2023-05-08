@@ -126,13 +126,13 @@
 		"Source":"Vampire Hunter D"
 	},
 	{
-		"Name":"<a href='https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Death%20Vow'>Extra Death Vow</a>",
+		"Name":"<a href='Extra%20Death%20Vow'>Extra Death Vow</a>",
 		"Prerequisite":"Death vow class feature",
 		"Description":"Your fury and ﬁghting prowess allow you to swear to slay more enemies per day.",
 		"Source":"Red Sonja"
 	},
 	{
-		"Name":"<a href='https://aonprd.com/FeatDisplay.aspx?ItemName=Vengeful%20Death%20Vow'>Vengeful Death Vow</a>",
+		"Name":"<a href='Vengeful%20Death%20Vow'>Vengeful  Death Vow</a>",
 		"Prerequisite":"Death vow class feature",
 		"Description":"Your death vow strikes terror into the hearts of your enemies, making them less likely to hit you in combat.",
 		"Source":"Red Sonja"

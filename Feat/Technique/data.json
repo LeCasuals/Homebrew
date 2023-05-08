@@ -1,5 +1,11 @@
 [
 	{
+		"Name":"<a href='Blessed%20Waters'>Blessed Waters</a>",
+		"Prerequisite":"-",
+		"Description":"You can create holy water that burns with your intense hatred of the undead.",
+		"Source":"Vampire Hunter D"
+	},
+	{
 		"Name":"<a href='Deaths%20Nightmare'>Death’s Nightmare</a>",
 		"Prerequisite":"Cha 14",
 		"Description":"Even the mindless dead fear your coming.",

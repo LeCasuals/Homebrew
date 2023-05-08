@@ -1,0 +1,15 @@
+[
+	{
+		"Name":"<a href='Crescent%20Blade'>Crescent Blade</a>",
+		"Cost":"10 gp",
+		"Dmg (S)":"1d3",
+		"Dmg (M)":"1d4",
+		"Crit":"19-20/x2",
+		"Range":"10 ft.",
+		"Weight":"2 lbs.",
+		"Type":"S",
+		"Special":"10 gp",
+		"Proficiency":"Exotic",
+		"Source":"Vampire Hunter D"
+	}
+]

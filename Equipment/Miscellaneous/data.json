@@ -1,0 +1,16 @@
+[
+	{
+		"Name":"<a href='Essence of Night'>Essence of Night</a>",
+		"Price":"150 gp",
+		"Weight":"-",
+		"Craft DC":"25",
+		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Sun Sensitivity Outfit'>Sun Sensitivity Outfit</a>",
+		"Price":"300 gp",
+		"Weight":"5 lbs.",
+		"Craft DC":"-",
+		"Source":"Vampire Hunter D"
+	}
+]
