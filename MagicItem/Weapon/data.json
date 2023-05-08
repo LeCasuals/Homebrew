@@ -5,5 +5,12 @@
 		"Price":"6,000 GP",
 		"Aura":"Strong conjuration and transmutation",
 		"Source":"Puzzle Box (Kingmaker)"
+	},
+	{
+		"Name":"<a href='Sins Spearhead'>Sin’s Spearhead</a>",
+		"CL":"12th",
+		"Price":"80,000 GP",
+		"Aura":"Strong divination and transmutation",
+		"Source":"Niobe"
 	}
 ]

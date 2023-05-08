@@ -5,5 +5,12 @@
 		"Price":"22,500 GP",
 		"Aura":"Moderate evocation [darkness, light]",
 		"Source":"Vampire Hunter D"
+	},
+	{
+		"Name":"<a href='Feathers of Eskanu'>TFeathers of Eskanu</a>",
+		"CL":"10th",
+		"Price":"52,000 GP",
+		"Aura":"Moderate transmutation",
+		"Source":"Niobe"
 	}
 ]
