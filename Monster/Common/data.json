@@ -33,5 +33,26 @@
 		"Type":"Aberration",
 		"Environment":"-",
 		"Source":"John Carter of Mars"
+	},
+	{
+		"Name":"<a href='Olkhia'>Olkhia</a>",
+		"CR":"4",
+		"Type":"Animal",
+		"Environment":"Warm and temperate jungles (Ugoma)",
+		"Source":"Niobe"
+	},
+	{
+		"Name":"<a href='Udeybo'>Udeybo</a>",
+		"CR":"5",
+		"Type":"Magical Beast",
+		"Environment":"Temperate jungles (Ugoma)",
+		"Source":"Niobe"
+	},
+	{
+		"Name":"<a href='Ujaheim'>Ujaheim</a>",
+		"CR":"6",
+		"Type":"Animal",
+		"Environment":"Temperate plains (Ugoma)",
+		"Source":"Niobe"
 	}
 ]
