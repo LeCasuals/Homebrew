@@ -54,5 +54,12 @@
 		"Type":"Monstrous Humanoid (Sea-Spawn)",
 		"Abilities":"+2 Con, +2 Wis, -2 Int",
 		"Source":"Red Sonja"
+	},
+	{
+		"Name":"<a href='Skaven'>Skaven</a>",
+		"Size":"Medium",
+		"Type":"Monstrous Humanoid (Skaven)",
+		"Abilities":"+2 Dex, +1 Other",
+		"Source":"Warhammer Fantasy"
 	}
 ]
