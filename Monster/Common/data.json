@@ -54,5 +54,19 @@
 		"Type":"Animal",
 		"Environment":"Temperate plains (Ugoma)",
 		"Source":"Niobe"
+	},
+	{
+		"Name":"<a href='Sentient Spinning Top'>Sentient Spinning Top</a>",
+		"CR":"4",
+		"Type":"Construct",
+		"Environment":"Urban Areas",
+		"Source":"Homebrew (Andrew)"
+	},
+	{
+		"Name":"<a href='Sentient Sticky Man'>Sentient Sticky Man</a>",
+		"CR":"4",
+		"Type":"Construct",
+		"Environment":"Urban Areas",
+		"Source":"Homebrew (Andrew)"
 	}
 ]
