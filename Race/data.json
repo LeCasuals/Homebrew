@@ -61,5 +61,19 @@
 		"Type":"Monstrous Humanoid (Skaven)",
 		"Abilities":"+2 Dex, +1 Other",
 		"Source":"Warhammer Fantasy"
+	},
+	{
+		"Name":"<a href='Melnibonéan'>Melnibonéan</a>",
+		"Size":"Medium",
+		"Type":"Dragon, Humanoid (Melnibonéan)",
+		"Abilities":"-2 Con, +2 Int, +2 Wis",
+		"Source":"Elric of Melniboné"
+	},
+	{
+		"Name":"<a href='Myyrrhn'>Myyrrhn</a>",
+		"Size":"Medium",
+		"Type":"Humanoid (Melnibonéan)",
+		"Abilities":"-1 Str, +2 Dex, -1 Con",
+		"Source":"Elric of Melniboné"
 	}
 ]
