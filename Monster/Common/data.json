@@ -56,6 +56,20 @@
 		"Source":"Niobe"
 	},
 	{
+		"Name":"<a href='Sentient Puzzle Box'>Sentient Puzzle Box</a>",
+		"CR":"4",
+		"Type":"Construct",
+		"Environment":"Urban Areas",
+		"Source":"Homebrew (Andrew)"
+	},
+	{
+		"Name":"<a href='Sentient Toy Army Men'>Sentient Toy Army Men</a>",
+		"CR":"4",
+		"Type":"Construct",
+		"Environment":"Urban Areas",
+		"Source":"Homebrew (Andrew)"
+	},
+	{
 		"Name":"<a href='Sentient Spinning Top'>Sentient Spinning Top</a>",
 		"CR":"4",
 		"Type":"Construct",
